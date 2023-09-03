@@ -6,7 +6,7 @@ In-Game Command: **/pw** & **/pw help**
 
 ### **What are Player Warps?**
 
-Player Warps, commonly known as pwarp or PW, are player-made warps which allows other players to teleport to the location. Player Warps can be created with the cost of £10,000 using /pw set \<name>. Make sure you are standing at the block you want your Player Warp spawn to be! Successfully-made Player Warps will appear in /pw.
+Player Warps, commonly known as pwarp or PW, are player-made warps which allows other players to teleport to the location. Player Warps can be created at Rank II with the cost of £10,000 using /pw set \<name>. Make sure you are standing at the block you want your Player Warp spawn to be! Successfully-made Player Warps will appear in /pw.
 
 There is a limit to how many Player Warps that can be created created by a player, which is based on their rank in /ranks:
 
@@ -18,10 +18,14 @@ There is a limit to how many Player Warps that can be created created by a playe
 
 Among the key commands to customise your player warp in /pw are:
 
-* /pw desc set/remove \<warp> \<description> - Set/ remove descriptions.
+* /pw desc set/remove \<warp> \<description> - Set/ remove descriptions. (This uses & formatting)
 * /pw icon set/remove \<warp> - Set/remove icon. Will use the item you are holding in your hand.
 * /pw rename \<warp> \<newname> - Rename your warp (cost: £2500)
 * /pw ban set/remove \<warp> \<player> - Ban/remove a banned player from your PW.
+* /pw rate <warp> <1-5> - Give a Player Warp a Rating.
+* /pw reset <warp> - Reset the warp home.
+* /pw lock <warp> - Locks/Unlocks Playerwarp access.
+* /pw password <set/remove> <warp> <password> - Set/Remove a password for accessing a PW.
 
 **Note:** Adding \n into a chunk of text will move the following text to a new line, for example, typing, “Come visit my playerwarp!\nWe sell everything you need!” will appear in the PW menu as:
 
