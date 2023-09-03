@@ -27,8 +27,6 @@ Content members are fundamental to ensure the server is constantly adapting to t
 
 <img src="../../.gitbook/assets/Hakex.png" alt="" data-size="line"> **Hakex** - Joined v9.5 - Content Member - he/him&#x20;
 
-<img src="../../.gitbook/assets/ImS1eepy.png" alt="" data-size="line"> **ImS1eepy** - Joined v10 - Content Member - he/him&#x20;
-
 <img src="../../.gitbook/assets/Chacknee.png" alt="" data-size="line"> **Chacknee** - Joined v3 - Content Member - he/him&#x20;
 
 <img src="../../.gitbook/assets/JellyFluff.webp" alt="" data-size="line"> **JellyFluff** - Joined v8 - Content Member - she/her&#x20;
@@ -56,8 +54,6 @@ Builders are fundamental to ensure the server looks _**stunning**._ The majority
 Developers ensure the server is running smoothly and are also heavily involved with all of the fantastic custom features that the server has to offer. Without this team our server would not be as unique and engaging as it is today.
 
 <img src="../../.gitbook/assets/skinmc-avatar (13).png" alt="" data-size="line"> **Arein** - Joined v1 - Developer - he/him
-
-<img src="../../.gitbook/assets/skinmc-avatar (14).png" alt="" data-size="line"> **Frcsty** - Joined v8 - Developer - he/him
 
 <img src="../../.gitbook/assets/skinmc-avatar (15).png" alt="" data-size="line"> **Oribuin** - Joined v9 - Developer - he/him
 
