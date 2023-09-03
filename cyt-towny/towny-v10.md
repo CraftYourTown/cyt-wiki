@@ -9,6 +9,10 @@ coverY: -227.38522954091817
 
 # 📘 Towny - \[V10]
 
+{% hint style="success" %}
+Anyone can suggest or make changes to this Wiki by creating a pull request/issue on our GitHub [here](https://github.com/CraftYourTown/cyt-wiki)!
+{% endhint %}
+
 {% hint style="info" %}
 ✨ **Java IP:** mc.craftyourtown.com\
 🌠 **Store:** [https://store.craftyourtown.com/](https://store.craftyourtown.com/)\
