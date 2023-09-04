@@ -21,6 +21,7 @@ There are a few categories of CYG items that makes it easier to understand and l
 * **Wind Staff** - Right-click to launch yourself in the direction you are looking. Uses hunger.
 * **Portable Crafter/Ender Chest/Dust Bin** - Right-click to open these in your inventory via an item.
 * **Magic Zombie Pills** - Use these to cure Zombie Villagers faster and more efficiently.
+
 * **Soul Binder** - Used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
 * **Golden Lasso** - Used to capture mobs and replace them.
 * **Biome Changer** - Used to change the biome of a chunk.

@@ -16,16 +16,16 @@ There is a limit to how many Player Warps that can be created by a player, which
 
 ### **Player Warp Commands**
 
-Useful commands for your Player Warp: 
+Useful commands for your Player Warp:
 
-* /pw desc set/remove \<warp> \<description> - Set/ remove descriptions (This uses & formatting)
-* /pw icon set/remove \<warp> - Set/ remove icon - will use the item you are holding in your hand
-* /pw rename \<warp> \<newname> - Rename your warp (cost: £2500)
-* /pw ban set/remove \<warp> \<player> - Ban/ remove a banned player from your Player Warp
-* /pw rate \<warp> \<1-5> - Give a Player Warp a rating between 1 to 5 stars
-* /pw reset \<warp> - Reset a Player Warp home
-* /pw lock \warp> - Locks/ Unlocks Player Warp access
-* /pw password \<set/remove> \<warp> \<password> - Set/ remove a password for accessing a Player Warp
+* /pw desc set/remove \<warp> \<description> - Set/remove descriptions (this uses legacy '&' formatting)
+* /pw icon set/remove \<warp> - Set/remove icon - will use the item you are holding in your hand
+* /pw rename \<warp> \<newname> - Rename your warp (costs: £2500)
+* /pw ban set/remove \<warp> \<player> - Ban/remove a banned player from your Player Warp
+* /pw rate \<warp> <1-5> - Give a Player Warp a rating between 1 to 5 stars
+* /pw reset \<warp> - Changes (re-sets not reset) the player warp location
+* /pw lock \warp> - Locks/unlocks Player Warp access
+* /pw password \<set/remove> \<warp> \<password> - Set/remove a password for accessing a Player Warp
 
 **Note:** Adding \n into a chunk of text will move the following text to a new line, for example, typing, “Come visit my Player Warp!\nWe sell everything you need!” will appear in the Player Warp menu as:
 
