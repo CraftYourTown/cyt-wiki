@@ -24,7 +24,7 @@ There are a few categories of CYG items that makes it easier to understand and l
 * **Soul Binder** - Used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
 * **Golden Lasso** - Used to capture mobs and replace them.
 * **Biome Changer** - Used to change the biome of a chunk.
-* [**Skin Remover**](skins.md) - An item that is used to remove a Skin from an item.
+* [**Skin Remover**](../../cyt-survival/content/skins.md) - An item that is used to remove a Skin from an item.
 * **V10 Tag** - A tag that symbolises your involvement of V10.
 
 </details>
