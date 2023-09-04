@@ -1,29 +1,29 @@
 # CraftYourGadgets
 
 {% hint style="info" %}
-In-Game Command: **/warp Trading** or **/cyg**
+In-Game Command: **/cyg**
 {% endhint %}
 
 ### **What is CraftYourGadgets?**
 
-CraftYourGadgets, or CYG, is a new custom-made plugin that we're excited to be showcasing here on CYT. The purpose of CYG is to offer a more enhanced multiplayer experience by offering a range of tools, machines and items that benefit any play-style. Whilst the list of currently available items is short, we have plans and the capability to mold CYG into something special.
+CraftYourGadgets, or CYG, is a new custom-made plugin that we're excited to be showcasing here on CYT. The purpose of CYG is to offer a more enhanced multiplayer experience by offering a range of tools, machines, and items that benefit any play style. Whilst the list of currently available items is short, we have plans and the capability to mold CYG into something special.
 
 ### What does CYG add?
 
-There are a few categories to CYG that makes it easier to understand and learn, listed below are the different categories, their items and what they do.
+There are a few categories of CYG items that makes it easier to understand and learn. Listed below are the different categories, their items, and what they do.
 
 <details>
 
 <summary>CYG Items</summary>
 
-* **Infused Magnet** - Draw in items that are within a radius
+* **Infused Magnet** - Draw in items that are within a 10-block radius
 * **Tape Measure** - Set an anchor point and click elsewhere to check the distance
-* **Wind Staff** - Right click to launch yourself into that direction, uses hunger.
-* **Portable Crafter/Ender Chest/Dust Bin** - Right click to open these in your inventory via an item.
+* **Wind Staff** - Right-click to launch yourself in the direction you are looking. Uses hunger.
+* **Portable Crafter/Ender Chest/Dust Bin** - Right-click to open these in your inventory via an item.
 * **Magic Zombie Pills** - Use these to cure Zombie Villagers faster and more efficiently.
-* **Soul Binder** - An item that is used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
-* **Golden Lasso** - An item that is used to capture mobs and replace them .
-* **Biome Changer** - An item that is used to change the biome of a chunk.
+* **Soul Binder** - Used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
+* **Golden Lasso** - Used to capture mobs and replace them.
+* **Biome Changer** - Used to change the biome of a chunk.
 * [**Skin Remover**](skins.md) - An item that is used to remove a Skin from an item.
 * **V10 Tag** - A tag that symbolises your involvement of V10.
 
@@ -40,7 +40,7 @@ There are a few categories to CYG that makes it easier to understand and learn, 
 * **Upgraded Explosive Shovel** - Digs a 5x5 area of blocks
 * **Vein Miner Pickaxe** - Mines a vein of ore at once
 * **Lumber Axe** - Chops down a whole tree at once
-* **Sword of Beheading** - Chance to drop a players head when they're killed with it
+* **Sword of Beheading** - Chance to drop a player's head when they're killed with it
 
 </details>
 
@@ -50,13 +50,13 @@ There are a few categories to CYG that makes it easier to understand and learn, 
 
 * **Holographic Display** - Ability to create and modify a holographic text line
 * **Table Saw** - A machine that turns 1x log into 8x planks
-* **Auto Drier** - Dries a range of items. (Uses specific items to power it for X amount of seconds)
-* **Auto Enchanter** - Combines enchanted books onto tools/armour (Uses specific items to power it)
-* **Auto Disenchanter** - Removes enchants from tools/armour (Uses specific items to power it)
+* **Auto Drier** - Dries a range of items.
+* **Auto Enchanter** - Combines enchanted books onto tools/armour.
+* **Auto Disenchanter** - Removes enchants from tools/armour.
 
 <!---->
 
-* **Constructor** A piece of machinery with a 3x3 crafting grid used to craft various CYG items & machines \
+* **Constructor** A piece of machinery with a 3x3 crafting grid used to craft various CYG items & machines.
 
 
 <!---->
@@ -73,9 +73,9 @@ There are a few categories to CYG that makes it easier to understand and learn, 
 
 <!---->
 
-* **Big Barrel** - Stores X stacks of a singular item
-* **Large Barrel** - Stores X stacks of a singular item
-* **Deep Storage Unit** - Stores X stacks of a singular item
+* **Big Barrel** - Stores 256 stacks of a singular item
+* **Large Barrel** - Stores 512 stacks of a singular item
+* **Deep Storage Unit** - Stores 16384 stacks of a singular item
 * **Speedy Furnace** - An enhanced furnace that works at a 1.5x speed
 * **Speedier Furnace** - An enhanced furnace that works at a 3x speed
 
