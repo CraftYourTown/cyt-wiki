@@ -20,8 +20,9 @@ In mcMMO, you can apply Credits to your skills to level them up. One credit equa
 
 ## mcMMO Abilites
 Some mcMMO abilities are toggled off by default, these can be changed with /toggle
-You can activate some abilities like Super Breaker by using RMB with the appropriate tool
-<![toggle](https://github.com/anarchictapir/cyt-wiki/assets/111831961/8d2ac447-c87e-41aa-b2d2-83259a55e289)
+<figure><img src="https://github.com/anarchictapir/cyt-wiki/assets/111831961/8d2ac447-c87e-41aa-b2d2-83259a55e289" alt=""><figcaption></figcaption></figure><br>
+You can activate some abilities like Super Breaker by using RMB with the appropriate tool<br>
+
 
 {% hint style="info" %}
 For more information on this feature, check out [this site](https://mcmmo.fandom.com/wiki/McMMO\_Wiki) on all things mcMMO!
