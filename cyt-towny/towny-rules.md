@@ -75,7 +75,7 @@ This does not apply to resource worlds.
 > * Use of Unfair Advantages (Hacked Clients, Auto-Clickers/Auto-Fishers, Macros)
 > * Scamming others (In-Game)
 > * Making traps to kill other players
-> * Inappropriate skins/names/b[Fossils](https://app.gitbook.com/o/m0cqAD0KkjZTM6rFUM4X/s/LrrRNzhUsEdrUnv2XeJO/\~/changes/65/cyt-towny/content/fossils)uilds
+> * Inappropriate skins/names/builds
 
 <details>
 
