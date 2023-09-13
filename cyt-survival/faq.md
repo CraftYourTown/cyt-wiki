@@ -14,11 +14,11 @@ You can ofcourse use regular enchantment methods such as enchantment tables and 
 
 However, when you start to get a hang of the server you can start collecting Tokens these can be used to purchase enchantment books above the vanilla maximum. (click [here](content/toby-the-trader.md) for more information)
 
-**What are the** [**custom fish**](content/fishing.md#what-is-pyrofishing)**?**
+**What are the** [**custom fish**](broken-reference)**?**
 
 Our custom fish are a part of a plugin that allows you to earn money and upgrade your fishing skills! Type /fish menu or crouch and right click your fishing rod for more info!
 
-**What is** [**Entropy**](content/fishing.md#what-is-entropy)**?**
+**What is** [**Entropy**](broken-reference)**?**
 
 Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!&#x20;
 
