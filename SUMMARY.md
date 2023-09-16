@@ -74,6 +74,7 @@
   * [Player Profiles](cyt-survival/content/player-profiles.md)
   * [Player Market](cyt-survival/content/player-market.md)
   * [Player Warps](cyt-survival/content/player-warps.md)
+  * [Quests](cyt-survival/content/quests.md)
   * [Sarah](cyt-survival/content/sarah.md)
   * [Skins](cyt-survival/content/skins.md)
   * [Trade](cyt-survival/content/trade.md)
