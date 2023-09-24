@@ -1,5 +1,9 @@
 # 🏠 CYTKingdoms
 
+{% hint style="danger" %}
+This is due to be replaced by [Towny ](towny/)on the 27th September - please check our [Discord ](https://discord.gg/cyt)announcements for more information.
+{% endhint %}
+
 {% hint style="info" %}
 In-Game Command: **/t**
 {% endhint %}

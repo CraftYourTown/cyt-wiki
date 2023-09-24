@@ -1,3 +1,23 @@
 # 🏘 Towny
 
 ### Here you can find out all our information on creating, maintaining and paying for your town!
+
+{% content-ref url="creating-a-town.md" %}
+[creating-a-town.md](creating-a-town.md)
+{% endcontent-ref %}
+
+{% content-ref url="plot-types.md" %}
+[plot-types.md](plot-types.md)
+{% endcontent-ref %}
+
+{% content-ref url="ranks-within-towns.md" %}
+[ranks-within-towns.md](ranks-within-towns.md)
+{% endcontent-ref %}
+
+{% content-ref url="upkeep-debt-and-bankruptcy.md" %}
+[upkeep-debt-and-bankruptcy.md](upkeep-debt-and-bankruptcy.md)
+{% endcontent-ref %}
+
+{% content-ref url="commands.md" %}
+[commands.md](commands.md)
+{% endcontent-ref %}
