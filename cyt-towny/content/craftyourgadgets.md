@@ -77,6 +77,10 @@ Most Machines require fuel to operate. You can insert fuel manually by right-cli
 
 Each fuel item provides a different amount of fuel to the machine.
 
+* **Planks** - 0.03
+* **Block of Bamboo** - 0.06
+* **Stripped Logs** - 0.12
+* **Logs** - 0.15
 * **Coal** - 0.25
 * **Charcoal** - 0.25
 * **Blaze Rod** - 0.5
