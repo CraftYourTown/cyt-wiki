@@ -13,7 +13,7 @@
 Most towns have taxes to help the mayor pay for their town's upkeep - you can view a town's taxes by using **/t \<town name>** or **/towny prices** in-game. When the money is taken from your balance, it is put directly into the Town Bank.
 
 {% hint style="info" %}
-Town Taxes are taken daily at **10pm UTC** from the Town Bank.
+Town Taxes are taken daily at **9pm UTC** from the Town Bank.
 {% endhint %}
 
 As the mayor of the town, you can choose how much you want to tax your residents using **/t set taxes \<amount>**, or you can use **/t toggle taxpercent** to set tax to be a percentage of your resident's balance.
