@@ -15,6 +15,7 @@
 * [🏠 CYTKingdoms](cyt-towny/cytkingdoms.md)
 * [🏘 Towny](cyt-towny/towny/README.md)
   * [Creating a Town](cyt-towny/towny/creating-a-town.md)
+  * [Costs](cyt-towny/towny/costs.md)
   * [Plot Types](cyt-towny/towny/plot-types.md)
   * [Ranks within Towns](cyt-towny/towny/ranks-within-towns.md)
   * [Upkeep, Debt & Bankruptcy](cyt-towny/towny/upkeep-debt-and-bankruptcy.md)

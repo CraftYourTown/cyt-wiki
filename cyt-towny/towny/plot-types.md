@@ -4,10 +4,6 @@ We've had a few questions on what the plot types mean, so this is here to clean 
 
 To set a plot to a type, you can do **/plot set \<type name>**. The **\<type name>**'s are listed below.
 
-{% hint style="warning" %}
-It costs **$500** from the town bank to set a plot type.
-{% endhint %}
-
 **Arena** - PVP is on all the time in arena plots as well as friendly-fire damage. Town health regen is also disabled in arena plots.
 
 **Bank** - A plot designed for **/t deposit** & **/t withdraw** commands. Not required on CYT as we don't force the use of these for these commands.
