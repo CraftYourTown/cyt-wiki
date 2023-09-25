@@ -10,6 +10,10 @@ This rolls out on the **27th of September** - more information in the [Discord](
 [creating-a-town.md](creating-a-town.md)
 {% endcontent-ref %}
 
+{% content-ref url="costs.md" %}
+[costs.md](costs.md)
+{% endcontent-ref %}
+
 {% content-ref url="plot-types.md" %}
 [plot-types.md](plot-types.md)
 {% endcontent-ref %}
