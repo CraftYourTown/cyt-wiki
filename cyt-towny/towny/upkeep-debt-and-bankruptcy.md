@@ -26,9 +26,9 @@ Using **percentage tax** may discourage players from joining your town, as playe
 
 To prevent your town from going bankrupt, you must have enough money in your Town Bank to pay your town's upkeep each day. If you cannot pay this, your town will enter a **bankrupt state** and the bank will go into the negatives. In this state, you will not be able to make any adjustments to your town until you put enough money in the bank to reach a positive balance again.
 
-### Dept cap
+### Debt cap
 
-Your town's **dept cap** is the combined price of all your claimed chunks, outposts and plots - it is limited to a maximum of $100,000. Once your town has been bankrupt for long enough to hit this cap, the town will fall and enter a ruined state where it becomes raidable to the public, and can be reclaimed 24h later.
+Your town's **debt cap** is the combined price of all your claimed chunks, outposts and plots - it is limited to a maximum of $100,000. Once your town has been bankrupt for long enough to hit this cap, the town will fall and enter a ruined state where it becomes raidable to the public, and can be reclaimed 24h later.
 
 ## Nation Upkeep and Taxes
 
