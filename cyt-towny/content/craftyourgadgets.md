@@ -8,6 +8,10 @@ In-Game Command: **/cyg**
 
 CraftYourGadgets, or CYG, is a new custom-made plugin that we're excited to be showcasing here on CYT. The purpose of CYG is to offer a more enhanced multiplayer experience by offering a range of tools, machines, and items that benefit any play style. Whilst the list of currently available items is short, we have plans and the capability to mold CYG into something special.
 
+{% hint style="info" %}
+Planning on making machines public use or want residents to use them? Make sure to give them the 'switch' permission to access them.
+{% endhint %}
+
 ### What does CYG add?
 
 The CYG Items are separated into categories. Listed below are the different categories, their items, and what they do.
