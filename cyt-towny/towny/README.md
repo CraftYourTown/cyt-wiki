@@ -1,9 +1,5 @@
 # 🏘 Towny
 
-{% hint style="info" %}
-This rolls out on the **27th of September** - more information in the [Discord](https://discord.gg/cyt).
-{% endhint %}
-
 ### Here you can find out all our information on creating, maintaining and paying for your town!
 
 {% content-ref url="creating-a-town.md" %}

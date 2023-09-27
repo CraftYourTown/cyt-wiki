@@ -12,7 +12,6 @@
 
 * [📘 Towny - \[V10\]](cyt-towny/towny-v10.md)
 * [📖 Towny Rules](cyt-towny/towny-rules.md)
-* [🏠 CYTKingdoms](cyt-towny/cytkingdoms.md)
 * [🏘 Towny](cyt-towny/towny/README.md)
   * [Creating a Town](cyt-towny/towny/creating-a-town.md)
   * [Costs](cyt-towny/towny/costs.md)
