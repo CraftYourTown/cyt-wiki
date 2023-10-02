@@ -20,4 +20,4 @@
 
 ## Nation Town Block Bonus
 
-<table><thead><tr><th width="248">Nation Level</th><th width="213.33333333333331">Member Requirement</th><th>Bonus Townblocks</th></tr></thead><tbody><tr><td>Land of &#x3C;nation></td><td>10</td><td>0</td></tr><tr><td>Federation of &#x3C;nation></td><td>20</td><td>20</td></tr><tr><td>Dominion of &#x3C;nation></td><td>40</td><td>50</td></tr><tr><td>Kingdom of &#x3C;nation></td><td>100</td><td>60</td></tr><tr><td>The &#x3C;nation> Empire</td><td>150</td><td>100</td></tr><tr><td>The &#x3C;nation> Realm</td><td>200</td><td>140</td></tr></tbody></table>
+<table><thead><tr><th width="248">Nation Level</th><th width="213.33333333333331">Member Requirement</th><th>Bonus Townblocks</th></tr></thead><tbody><tr><td>Land of &#x3C;nation></td><td>0</td><td>10</td></tr><tr><td>Federation of &#x3C;nation></td><td>20</td><td>20</td></tr><tr><td>Dominion of &#x3C;nation></td><td>50</td><td>40</td></tr><tr><td>Kingdom of &#x3C;nation></td><td>100</td><td>60</td></tr><tr><td>The &#x3C;nation> Empire</td><td>150</td><td>100</td></tr><tr><td>The &#x3C;nation> Realm</td><td>200</td><td>140</td></tr></tbody></table>
