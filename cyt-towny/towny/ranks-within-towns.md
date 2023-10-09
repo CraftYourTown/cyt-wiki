@@ -48,7 +48,7 @@ Ability to build around the town\
 
 ## **Assistant:**
 
-All "Builder" permissions plus:\
+All "VIP" permissions plus:\
 /town claim\
 /town invite\
 /plot (all features)\
