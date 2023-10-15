@@ -11,6 +11,10 @@ Around £5000-10000 extra cash for claiming land and initial upkeep
 
 Stand where you want the town spawn to be, and type `/t new <town name>` (spaces are allowed, but they'll be replaced by underscores once submitted)
 
+{% hint style="info" %}
+Towns must be at least **12 chunks away** from each other or you will be unable to create your town. This also affects creating outposts and claiming land.
+{% endhint %}
+
 #### **Step 2: Funding your town**
 
 You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.
