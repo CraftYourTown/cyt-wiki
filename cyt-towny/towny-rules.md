@@ -238,6 +238,8 @@ We do not delete towns for any reason other than all members being permanently b
 > * Not leaving a town when being asked to (or being within 50 blocks)
 > * Setting homes/warps in a town (other than your own)
 > * Advertising within the Auction House (/ah)
+> * Instant Inviting of new players is not allowed
+> * Setting homes within 100 blocks of other towns (without consent) is not allowed
 
 <details>
 

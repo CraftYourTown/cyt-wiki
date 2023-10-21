@@ -6,12 +6,12 @@ In-Game Command: **/warp crates**
 
 Crates are a great way of earning money on Towny!
 
-|       Crate      |                                                                                                                                        How to Obtain Keys                                                                                                                                        |
-| :--------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  **Event Crate** |                                                                 Obtainable through the [**Store**](https://store.craftyourtown.com/) or from the Seasonal Event at the time - (used only during seasonal events, such as Easter)                                                                 |
-|  **Mango Crate** |                                                                                     Obtainable through the [**Store**](https://store.craftyourtown.com/) **-** keys can also be obtained through other crates                                                                                    |
-| **Reward Crate** | Obtainable from Vote Crates, [Pinata Pouches](../../cyt-towny/content/pinata-party.md), [VoteParty Pouches](voting-and-vote-parties.md), [Fishing Tournaments](../../cyt-towny/content/fishing.md), [Tournaments](broken-reference) and [Tasks](../../cyt-towny/content/tasks.md) to name a few! |
-|  **Vote Crate**  |                                                                                                                          No longer obtainable, replaced by the Vote Shop                                                                                                                         |
+|       Crate      |                                                                    How to Obtain Keys                                                                    |
+| :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  **Event Crate** | <p>Obtainable through the </p><p><strong>/store</strong> or from the Seasonal Event at the time - (used only during seasonal events, such as Easter)</p> |
+|  **Mango Crate** |                                    Obtainable through the **/store -** keys can also be obtained through other crates                                    |
+| **Reward Crate** |                            Obtainable from Vote Crates, Pinata Pouches, VoteParty Pouches & Fishing Tournaments to name a few!                           |
+|  **Vote Crate**  |                                                      No longer obtainable, replaced by the Vote Shop                                                     |
 
 ### What are the crate rewards?
 
