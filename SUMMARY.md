@@ -52,6 +52,7 @@
   * [Talismans](cyt-towny/content/talismans.md)
   * [Trade](cyt-towny/content/trade.md)
   * [Tournaments](cyt-towny/content/tournaments.md)
+  * [Towers](cyt-towny/content/towers.md)
   * [Voting & Vote Parties](cyt-towny/content/voting-and-vote-parties.md)
 * [❓ FAQ](cyt-towny/faq.md)
 
