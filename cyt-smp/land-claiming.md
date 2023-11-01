@@ -6,7 +6,7 @@ In-Game Command: **/claim**
 
 ### How do I claim land?
 
-Survival uses a different, more simple, method for claiming your land. You will need claimblocks to be able to claim land, and claimblocks can be earned in many ways (these methods are listed below). Once you have a sufficient amount of claim blocks you will need a golden shovel to claim your land, simply right-click the two corners, diagonal to one another, and your land will be safe.
+SMP uses a different, more simple, method for claiming your land. You will need claimblocks to be able to claim land, and claimblocks can be earned in many ways (these methods are listed below). Once you have a sufficient amount of claim blocks you will need a golden shovel to claim your land, simply right-click the two corners, diagonal to one another, and your land will be safe.
 
 {% hint style="info" %}
 One claim block = one block of land

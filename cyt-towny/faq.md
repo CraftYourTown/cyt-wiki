@@ -48,7 +48,7 @@ Our custom fish are a part of a plugin that allows you to earn money and upgrade
 
 Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!&#x20;
 
-**How do I find** [**Fossils**](../cyt-survival/content/fossils.md)**, and what are they?**
+**How do I find** [**Fossils**](../cyt-smp/content/fossils.md)**, and what are they?**
 
 You can find Dirty Fossils by mining, and clean at /warp Archaeologist! Once cleaned, you can discover what type it is by right clicking the Clean Fossil, and then add it to your Fossil Collection for rewards per collection completed!
 
@@ -104,6 +104,6 @@ You can always contact online Staff when you’re in-game for general support, o
 
 You can claim your keys and pouches in /cr claim!
 
-**How do I vote and join** [**VoteParties**](../cyt-survival/content/voting-and-vote-parties.md)**?**
+**How do I vote and join** [**VoteParties**](../cyt-smp/content/voting-and-vote-parties.md)**?**
 
 You can vote by typing /v in-game and typing your username in each link (remember to type your name as shown on the tablist)! Then stay online to join our VoteParties for every 75 votes!

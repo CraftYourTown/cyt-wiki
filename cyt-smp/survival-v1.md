@@ -7,7 +7,9 @@ cover: ../.gitbook/assets/survival.png
 coverY: 12
 ---
 
-# 🏡 Survival - \[V1]
+# 🏡 SMP - \[V1]
+
+
 
 {% hint style="success" %}
 Anyone can suggest or make changes to this Wiki by creating a pull request/issue on our GitHub [here](https://github.com/CraftYourTown/cyt-wiki)!
@@ -16,10 +18,10 @@ Anyone can suggest or make changes to this Wiki by creating a pull request/issue
 {% hint style="info" %}
 ✨ **Java IP:** mc.craftyourtown.com\
 🌠 **Store:** [https://store.craftyourtown.com/](https://store.craftyourtown.com/)\
-🌎 **Survival Map:** [https://survival.craftyourtown.com/](https://survival.craftyourtown.com/)
+🌎 **SMP Map:** [https://survival.craftyourtown.com/](https://survival.craftyourtown.com/)
 {% endhint %}
 
-## **What does Survival at CYT have to offer?**
+## **What does SMP at CYT have to offer?**
 
 :moneybag:Player-based and balanced economy
 

@@ -1,21 +1,19 @@
 ---
 description: >-
-  When the Towny or Survival servers have a major update, we will communicate
-  everything that has been added, removed or changed within an easy to use
-  changelog which can be found below.
+  Here you can learn about all of the features our SMP & Towny servers have to
+  offer and how to use them!
 ---
 
-# 🗒 Updates and Changes
+# 🗒 Welcome to our Wiki!
 
-### \[TOWNY] - V10.0 Release Changelog - 17th December '22
+{% hint style="success" %}
+Anyone can suggest or make changes to this Wiki by creating a pull request/issue on our GitHub [here](https://github.com/CraftYourTown/cyt-wiki)!
+{% endhint %}
 
-{% embed url="https://craftyourtown.com/version-10-patch-notes/" %}
+{% content-ref url="cyt-towny/towny-v10.md" %}
+[towny-v10.md](cyt-towny/towny-v10.md)
+{% endcontent-ref %}
 
-### \[TOWNY] - V10.1 Content Update Changelog - 21st January '23
-
-{% embed url="https://craftyourtown.com/towny-v10-1-content-update/" %}
-
-### \[TOWNY] - V10.2 Content Update Changelog - 16th April '23
-
-{% embed url="https://craftyourtown.com/towny-v10-2-content-update/" %}
-
+{% content-ref url="cyt-smp/survival-v1.md" %}
+[survival-v1.md](cyt-smp/survival-v1.md)
+{% endcontent-ref %}
