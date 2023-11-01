@@ -95,4 +95,4 @@
 * [🔗 Website](https://craftyourtown.com)
 * [🎧 Discord](https://discord.com/invite/cyt)
 * [🗺 Towny Map](https://towny.craftyourtown.com)
-* [🗺 Survival Map](https://survival.craftyourtown.com)
+* [🗺 SMP Map](https://survival.craftyourtown.com)
