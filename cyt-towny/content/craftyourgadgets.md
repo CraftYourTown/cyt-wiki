@@ -36,7 +36,7 @@ The CYG Items are separated into categories. Listed below are the different cate
   * **Magic Zombie Pills** - Use these to cure Zombie Villagers faster and more efficiently.
   * **Golden Lasso** - Used to capture mobs and replace them.
   * **Biome Changer** - Used to change the biome of a chunk.
-  * [**Skin Remover**](../../cyt-smp/content/skins.md) - An item that is used to remove a Skin from an item.
+  * [**Skin Remover**](../../cyt-survival/content/skins.md) - An item that is used to remove a Skin from an item.
   * **Soul Binder** - Used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
 
 </details>

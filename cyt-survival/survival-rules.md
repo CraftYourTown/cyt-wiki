@@ -1,4 +1,4 @@
-# 📖 Survival Rules
+# 📖 SMP Rules
 
 In-Game Command: **/rules**
 

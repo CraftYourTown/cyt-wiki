@@ -14,6 +14,6 @@ Anyone can suggest or make changes to this Wiki by creating a pull request/issue
 [towny-v10.md](cyt-towny/towny-v10.md)
 {% endcontent-ref %}
 
-{% content-ref url="cyt-smp/survival-v1.md" %}
-[survival-v1.md](cyt-smp/survival-v1.md)
+{% content-ref url="cyt-survival/survival-v1.md" %}
+[survival-v1.md](cyt-survival/survival-v1.md)
 {% endcontent-ref %}
