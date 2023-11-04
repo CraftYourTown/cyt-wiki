@@ -25,7 +25,7 @@ Check your **/jobs info** to see what you can do within your job and what pays t
 
 ### What is the Money and XP Limit?
 
-From when you begin actions of your joined jobs, a limit is set. For money, this is £25,000 per 12 hours and for Jobs XP, this is 20,000 per 12 hours. Check this limit and whether or not you are close it to by typing **/jobs limit**.
+From when you begin actions of your joined jobs, a limit is set. For money, this is £25,000 per 24 hours and for Jobs XP, this is 20,000 per 24 hours. Check this limit and whether or not you are close it to by typing **/jobs limit**.
 
 ### How many Jobs can I have?
 
