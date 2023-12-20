@@ -4,9 +4,6 @@
 
 * [🗒 Welcome to our Wiki!](README.md)
 * [🛠 Resource Packs](general/resource-packs.md)
-* [👋 Meet the CYT Team!](general/meet-the-cyt-team/README.md)
-  * [Staff Team](general/meet-the-cyt-team/staff-team.md)
-  * [Content Team](general/meet-the-cyt-team/content-team.md)
 
 ## CYT Towny
 
