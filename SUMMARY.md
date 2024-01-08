@@ -10,6 +10,7 @@
 * [📘 Towny - \[V10\]](cyt-towny/towny-v10.md)
 * [📖 Towny Rules](cyt-towny/towny-rules.md)
 * [🏘 Towny](cyt-towny/towny/README.md)
+  * [Find a Town](cyt-towny/towny/find-a-town.md)
   * [Creating a Town](cyt-towny/towny/creating-a-town.md)
   * [Costs](cyt-towny/towny/costs.md)
   * [Plot Types](cyt-towny/towny/plot-types.md)
