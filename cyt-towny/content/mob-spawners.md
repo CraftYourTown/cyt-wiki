@@ -8,6 +8,13 @@ In-Game Command: **/spawners**
 
 Spawners are a great way of obtaining mob loot and gaining xp. We offer a unique experience with Spawners, by changing how they can be obtained and used.
 
+### Spawner not spawning?
+
+This is likely due to two things:
+
+* Lack of fuel
+* Too many entities nearby (16 in the chunk max)
+
 ### Obtaining Spawners
 
 All functioning Spawners must be obtained from the Spawners & Fuel Trader at /warp trading, as regular, natural Spawners don't work! Though fear not, you can still make use of these unusable Spawners by breaking them to receive Spawner Shards. Spawner Shards are an essential ingredient that is required when trading for all Spawners on offer, and each natural spawner can drop between 1 to 3 shards, along with 4 to 12 [Mob Essence](mob-spawners.md#fuel-types).
