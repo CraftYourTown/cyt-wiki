@@ -2,6 +2,10 @@
 
 ### Here you can find out all our information on creating, maintaining and paying for your town!
 
+{% content-ref url="find-a-town.md" %}
+[find-a-town.md](find-a-town.md)
+{% endcontent-ref %}
+
 {% content-ref url="creating-a-town.md" %}
 [creating-a-town.md](creating-a-town.md)
 {% endcontent-ref %}
