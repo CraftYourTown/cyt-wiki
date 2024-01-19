@@ -1,7 +1,8 @@
 ---
 description: >-
-  If you have an issue with a ruling, you can appeal at
-  craftyourtown.com/appeals
+  You are responsible for your own account, and so you are responsible for any
+  punishments if you break the rules below. If you have an issue with a ruling,
+  you can appeal at craftyourtown.com/appeals
 ---
 
 # 📖 Server Rules
