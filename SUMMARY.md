@@ -4,11 +4,11 @@
 
 * [🗒 Welcome to our Wiki!](README.md)
 * [🛠 Resource Packs](general/resource-packs.md)
+* [📖 Server Rules](general/server-rules.md)
 
 ## CYT Towny
 
 * [📘 Towny - \[V10\]](cyt-towny/towny-v10.md)
-* [📖 Towny Rules](cyt-towny/towny-rules.md)
 * [🏘 Towny](cyt-towny/towny/README.md)
   * [Find a Town](cyt-towny/towny/find-a-town.md)
   * [Creating a Town](cyt-towny/towny/creating-a-town.md)
@@ -57,7 +57,6 @@
 ## CYT SMP
 
 * [🏡 SMP - \[V1\]](cyt-survival/survival-v1.md)
-* [📖 SMP Rules](cyt-survival/survival-rules.md)
 * [⛏ Land Claiming](cyt-survival/land-claiming.md)
 * [🌱 Teleportation and Homes](cyt-survival/teleportation-and-homes.md)
 * [🍄 Content](cyt-survival/content/README.md)
