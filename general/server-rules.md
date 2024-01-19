@@ -1,3 +1,9 @@
+---
+description: >-
+  If you have an issue with a ruling, you can appeal at
+  craftyourtown.com/appeals
+---
+
 # 📖 Server Rules
 
 ## General rules (apply over all servers)
