@@ -16,6 +16,14 @@ Planning on making machines public use or want residents to use them? Make sure 
 
 The CYG Items are separated into categories. Listed below are the different categories, their items, and what they do.
 
+{% hint style="danger" %}
+**Note:** Enchanters and Disenchanters are currently disabled due to an issue.
+
+For now, drag and drop enchantment books onto tools to apply them. To disenchant, drag and drop an empty book onto a tool and it will give you the enchantments in a book.
+
+This does not work for Bedrock players as Bedrock lacks the packets required to perform this action.
+{% endhint %}
+
 <details>
 
 <summary>CYG Items</summary>
