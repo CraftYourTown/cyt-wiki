@@ -2,14 +2,14 @@
 
 ## General
 
-* [🗒 Welcome to our Wiki!](README.md)
-* [🛠 Resource Packs](general/resource-packs.md)
+* [🗒️ Welcome to our Wiki!](README.md)
+* [🛠️ Resource Packs](general/resource-packs.md)
 * [📖 Server Rules](general/server-rules.md)
 
 ## CYT Towny
 
 * [📘 Towny - \[V10\]](cyt-towny/towny-v10.md)
-* [🏘 Towny](cyt-towny/towny/README.md)
+* [🏘️ Towny](cyt-towny/towny/README.md)
   * [Find a Town](cyt-towny/towny/find-a-town.md)
   * [Creating a Town](cyt-towny/towny/creating-a-town.md)
   * [Costs](cyt-towny/towny/costs.md)
@@ -57,7 +57,7 @@
 ## CYT SMP
 
 * [🏡 SMP - \[V1\]](cyt-survival/survival-v1.md)
-* [⛏ Land Claiming](cyt-survival/land-claiming.md)
+* [⛏️ Land Claiming](cyt-survival/land-claiming.md)
 * [🌱 Teleportation and Homes](cyt-survival/teleportation-and-homes.md)
 * [🍄 Content](cyt-survival/content/README.md)
   * [Armour Stand Editor](cyt-survival/content/armour-stand-editor.md)
@@ -91,5 +91,5 @@
 
 * [🔗 Website](https://craftyourtown.com)
 * [🎧 Discord](https://discord.com/invite/cyt)
-* [🗺 Towny Map](https://towny.craftyourtown.com)
-* [🗺 SMP Map](https://survival.craftyourtown.com)
+* [🗺️ Towny Map](https://towny.craftyourtown.com)
+* [🗺️ SMP Map](https://survival.craftyourtown.com)

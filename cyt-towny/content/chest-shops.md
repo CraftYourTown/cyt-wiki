@@ -9,7 +9,7 @@ In-Game Command: **N/A**
 **Chest Shops** are the best way to buy and sell large amounts of items on the server, especially when you have a [Player Warp](player-warps.md) for people to visit and use those shops. **These shops support all items on the server**, including custom items here on CYT!
 
 {% hint style="warning" %}
-There is a **15%** tax on all shop transactions
+There is a **15%** tax on all shop transactions and a **£10** to create a shop
 {% endhint %}
 
 <details>
