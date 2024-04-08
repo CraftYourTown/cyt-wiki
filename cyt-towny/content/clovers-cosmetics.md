@@ -6,7 +6,7 @@ Clover's Cosmetics is a store accessible by typing `/warp CloversCosmetics` that
 
 ### How much are the items to purchase?
 
-All decor is £1000 and all furniture is £1500
+All decor is £500 and all furniture is £750
 
 ### How do you use the furniture or decor?
 
