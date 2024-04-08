@@ -12,7 +12,7 @@ There is a limit to how many Player Warps that can be created by a player, which
 
 * Rank II onwards: 1 Player Warps
 * Rank VI onwards: 2 Player Warps
-* Rank X onwards: 3 Player Warps
+* Rank IX onwards: 3 Player Warps
 
 ### **Player Warp Commands**
 
