@@ -1,5 +1,7 @@
 # The Depths
 
+[//]: # (Outdated information)
+
 {% hint style="info" %}
 In-Game Command: **/warp Depths**
 {% endhint %}

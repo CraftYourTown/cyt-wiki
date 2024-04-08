@@ -1,5 +1,7 @@
 # Trade
 
+[//]: # (Outdated Information)
+
 {% hint style="info" %}
 In-Game Command: **/trade**
 {% endhint %}

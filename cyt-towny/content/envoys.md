@@ -1,5 +1,7 @@
 # Envoys
 
+[//]: # (Outdated Information)
+
 {% hint style="info" %}
 In-Game Command: **/envoys** and **/warp envoys**
 {% endhint %}
