@@ -69,11 +69,7 @@ Anyone can suggest or make changes to this Wiki by creating a pull request/issue
 
 :frame\_photo: Customisable player profiles&#x20;
 
-:park: Frequent Envoys with custom mobs&#x20;
-
 :shopping\_cart: Playerwarps and player shops to buy anything you need&#x20;
-
-:money\_mouth: Custom Lottery&#x20;
 
 :key: Many crates (all obtainable in-game)&#x20;
 
