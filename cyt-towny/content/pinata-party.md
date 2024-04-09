@@ -23,9 +23,12 @@ Piñata Party is an Event on the server that happens if the server reaches 100 p
 * ABC 123 Scoreboard Collectable
 
 </details>
-<br>
+
+\
+
 
 Piñata parties can also be purchased for the server using Coins.
+
 * 1200 - 1 Piñata
 * 3000 - 3 Piñatas
 * 4750 - 5 Piñatas
