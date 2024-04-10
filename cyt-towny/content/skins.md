@@ -15,3 +15,5 @@ You apply Skins by dragging the respective Skin onto your tool, and they can onl
 If you wish to remove a Skin from a tool, you would need a Skin remover, which is a one-time use item and can be found by the Item NPC at the Trading Hall at /warp Trading!
 
 <figure><img src="../../.gitbook/assets/skins.png" alt=""><figcaption></figcaption></figure>
+
+[//]:# (Update image, show off mor of the new Cosmetics? maybe a gif going through a few of them becuse they have animations?)
