@@ -29,16 +29,18 @@ This does not work for Bedrock players as Bedrock lacks the packets required to 
 <summary>CYG Items</summary>
 
 * **Basic Gadgets**
-  * **Infused Magnet** - Draw in items that are within a 10-block radius
-  * **Tape Measure** - Set an anchor point and click elsewhere to check the distance
+  * **Infused Magnet** - Draw in items that are within a 10-block radius.
+  * **Tape Measure** - Set an anchor point and click elsewhere to check the distance.
   * **Wind Staff** - Right-click to launch yourself in the direction you are looking. Uses hunger.
   * **Portable Crafter/Ender Chest/Dust Bin** - Right-click to open these in your inventory via an item.
+  * **Glass Cutter** - Tool to break glass instantly.
 * **Advanced Gadgets**
   * **Lava Sponge** - A reusable sponge that removes lava within 5 blocks.
-  * **Holographic Display** - Ability to create and modify a holographic text line.
-  * **Table Saw** - A machine that turns 1x log into 8x planks
-  * **Speedy Furnace** - An enhanced furnace that works at a 1.5x speed
-  * **Speedier Furnace** - An enhanced furnace that works at a 3x speed
+  * **Hologram Projector** - Ability to create and modify a holographic text line.
+  * **Table Saw** - A machine that turns 1x log into 8x planks.
+  * **Speedy Furnace** - An enhanced furnace that works at a 1.5x speed.
+  * **Speedier Furnace** - An enhanced furnace that works at a 3x speed.
+  * **Chunk Hopper** - A block that will pick up **all** drops in a chunk.
 * **Misc. Items**
   * **V10 Tag** - A tag that symbolises your involvement of V10.
   * **Magic Zombie Pills** - Use these to cure Zombie Villagers faster and more efficiently.
@@ -167,6 +169,7 @@ There are two tiers of Talisman. Tier II Talismans are crafted using two Teir I 
 <summary>CYG Ingredients</summary>
 
 * **Gatherables**
+  * **Talisman Core** - Found from crates and killing witches.
   * **Silicon Fragment** - Found from digging Sand and Red Sand.
   * **Rubber Fragment** - Found from chopping down Wood.
   * **Ancient Coin Fragment** - Found from digging Dirt, Sand, Soul Sand, Gravel, etc.
