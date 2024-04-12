@@ -4,7 +4,7 @@ description: >-
   offer and how to use them!
 ---
 
-# 🗒 Welcome to our Wiki!
+# 🗒️ Welcome to our Wiki!
 
 {% hint style="success" %}
 Anyone can suggest or make changes to this Wiki by creating a pull request/issue on our GitHub [here](https://github.com/CraftYourTown/cyt-wiki)!
@@ -14,6 +14,6 @@ Anyone can suggest or make changes to this Wiki by creating a pull request/issue
 [towny-v10.md](cyt-towny/towny-v10.md)
 {% endcontent-ref %}
 
-{% content-ref url="cyt-survival/survival-v1.md" %}
-[survival-v1.md](cyt-survival/survival-v1.md)
+{% content-ref url="cyt-smp/v1.md" %}
+[v1.md](cyt-smp/v1.md)
 {% endcontent-ref %}

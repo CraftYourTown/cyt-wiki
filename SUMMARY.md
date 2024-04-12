@@ -56,7 +56,7 @@
 
 ## CYT SMP
 
-* [🏡 SMP - \[V1\]](cyt-survival/survival-v1.md)
+* [🏡 SMP - \[V1\]](cyt-smp/v1.md)
 * [⛏️ Land Claiming](cyt-survival/land-claiming.md)
 * [🌱 Teleportation and Homes](cyt-survival/teleportation-and-homes.md)
 * [🍄 Content](cyt-survival/content/README.md)
