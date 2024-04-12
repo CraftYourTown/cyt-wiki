@@ -75,8 +75,6 @@
   * [Mob Caps](cyt-survival/content/mob-caps.md)
   * [Parkour](cyt-survival/content/parkour.md)
   * [Piñata Party](cyt-survival/content/pinata-party.md)
-  * [Player Profiles](cyt-survival/content/player-profiles.md)
-  * [Player Market](cyt-survival/content/player-market.md)
   * [Player Warps](cyt-survival/content/player-warps.md)
   * [Quests](cyt-survival/content/quests.md)
   * [Sarah](cyt-survival/content/sarah.md)
