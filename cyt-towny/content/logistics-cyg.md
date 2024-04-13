@@ -41,7 +41,7 @@ Filters are essentially whitelists and will only accept the items listed within 
 
 ### Channels
 
-Channels are a way to separate and organise sections of your system(s) as they can not interact with each other. By default, all nodes use 'White' and you can change this by left or right clicking (to increment/decrement) what your channel is set to.
+Channels are a way to separate and organize sections of your system(s) as they can not interact with each other. By default, all nodes use 'White' and you can change this by left or right clicking (to increment/decrement) what your channel is set to.
 
 <figure><img src="https://i.imgur.com/6uaQu6u.png" alt=""><figcaption><p>In this example, my output node is using the default filter (white)</p></figcaption></figure>
 

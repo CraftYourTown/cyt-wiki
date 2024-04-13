@@ -24,9 +24,6 @@ Piñata Party is an Event on the server that happens if the server reaches 100 p
 
 </details>
 
-\
-
-
 Piñata parties can also be purchased for the server using Coins.
 
 * 1200 - 1 Piñata
