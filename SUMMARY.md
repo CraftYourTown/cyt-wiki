@@ -58,7 +58,7 @@
 
 ## CYT SMP
 
-* [🏡 SMP - \[V1\]](cyt-survival/survival-v1.md)
+* [🏡 SMP - \[V1\]](cyt-smp/v1.md)
 * [⛏️ Land Claiming](cyt-survival/land-claiming.md)
 * [🌱 Teleportation and Homes](cyt-survival/teleportation-and-homes.md)
 * [🍄 Content](cyt-survival/content/README.md)
@@ -77,8 +77,6 @@
   * [Mob Caps](cyt-survival/content/mob-caps.md)
   * [Parkour](cyt-survival/content/parkour.md)
   * [Piñata Party](cyt-survival/content/pinata-party.md)
-  * [Player Profiles](cyt-survival/content/player-profiles.md)
-  * [Player Market](cyt-survival/content/player-market.md)
   * [Player Warps](cyt-survival/content/player-warps.md)
   * [Quests](cyt-survival/content/quests.md)
   * [Sarah](cyt-survival/content/sarah.md)
