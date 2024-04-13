@@ -6,7 +6,7 @@
 
 ###
 
-<figure><img src="https://i.imgur.com/MWqtAly.png" alt=""><figcaption><p>The main Quests Category menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image_2024-04-13_130534637.png" alt=""><figcaption><p>The main Quests Category menu</p></figcaption></figure>
 
 ### What are Quests?
 
@@ -22,4 +22,4 @@ The amount you can take on at once depends on your current in-game rank, check o
 **/quest list cooldown** - Show your quests currently on cooldown\
 **/quest list type \<type>**- Open the quests menu for that category\
 **/quest quit \<name>** - Quit an active quest\
-**/quest start \<name>** - Start a new quest\
+**/quest start \<name>** - Start a new quest

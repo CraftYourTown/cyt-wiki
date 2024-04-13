@@ -16,12 +16,12 @@ On CYT, you have the ability to Vote for the server to support us, and in return
 
 * Small Money Pouch
 * Small XP Pouch
-* Small Entropy Pouch
+* Small Fish Pouch
 * Small Credits Pouch
 * Spawner Shard
-* VoteParty Tag
-* VoteParty-Bundle Skins
-* Clover Crate Key
-* Mango Crate Key
+* Reward Crate Key
+* Reward Crate Key X2
+* Mystery Essence
+* Enchanted Golden Apple
 
 </details>
