@@ -8,10 +8,6 @@ In-Game Command: **/cyg**
 
 CraftYourGadgets, or CYG, is a new custom-made plugin that we're excited to be showcasing here on CYT. The purpose of CYG is to offer a more enhanced multiplayer experience by offering a range of tools, machines, and items that benefit any play style. Whilst the list of currently available items is short, we have plans and the capability to mold CYG into something special.
 
-{% hint style="info" %}
-Planning on making machines public use or want residents to use them? Make sure to give them the 'switch' permission to access them.
-{% endhint %}
-
 ### What does CYG add?
 
 The CYG Items are separated into categories. Listed below are the different categories, their items, and what they do.
@@ -29,24 +25,22 @@ This does not work for Bedrock players as Bedrock lacks the packets required to 
 <summary>CYG Items</summary>
 
 * **Basic Gadgets**
-  * **Infused Magnet** - Draw in items that are within a 10-block radius.
-  * **Tape Measure** - Set an anchor point and click elsewhere to check the distance.
+  * **Infused Magnet** - Draw in items that are within a 10-block radius
+  * **Tape Measure** - Set an anchor point and click elsewhere to check the distance
   * **Wind Staff** - Right-click to launch yourself in the direction you are looking. Uses hunger.
   * **Portable Crafter/Ender Chest/Dust Bin** - Right-click to open these in your inventory via an item.
-  * **Glass Cutter** - Tool to break glass instantly.
 * **Advanced Gadgets**
   * **Lava Sponge** - A reusable sponge that removes lava within 5 blocks.
-  * **Hologram Projector** - Ability to create and modify a holographic text line.
-  * **Table Saw** - A machine that turns 1x log into 8x planks.
-  * **Speedy Furnace** - An enhanced furnace that works at a 1.5x speed.
-  * **Speedier Furnace** - An enhanced furnace that works at a 3x speed.
-  * **Chunk Hopper** - A block that will pick up **all** drops in a chunk.
+  * **Holographic Display** - Ability to create and modify a holographic text line.
+  * **Table Saw** - A machine that turns 1x log into 8x planks
+  * **Speedy Furnace** - An enhanced furnace that works at a 1.5x speed
+  * **Speedier Furnace** - An enhanced furnace that works at a 3x speed
 * **Misc. Items**
   * **V10 Tag** - A tag that symbolises your involvement of V10.
   * **Magic Zombie Pills** - Use these to cure Zombie Villagers faster and more efficiently.
   * **Golden Lasso** - Used to capture mobs and replace them.
   * **Biome Changer** - Used to change the biome of a chunk.
-  * [**Skin Remover**](../../cyt-smp/content/skins.md) - An item that is used to remove a Skin from an item.
+  * [**Skin Remover**](../../cyt-survival/content/broken-reference/) - An item that is used to remove a Skin from an item.
   * **Soul Binder** - Used in an Auto Enchanter with any tool/armour to make it Soulbound (stays on the player after death). _COMING SOON_
 
 </details>
@@ -91,10 +85,6 @@ Most Machines require fuel to operate. You can insert fuel manually by right-cli
 
 Each fuel item provides a different amount of fuel to the machine.
 
-* **Planks** - 0.03
-* **Block of Bamboo** - 0.06
-* **Stripped Logs** - 0.12
-* **Logs** - 0.15
 * **Coal** - 0.25
 * **Charcoal** - 0.25
 * **Blaze Rod** - 0.5
@@ -169,7 +159,6 @@ There are two tiers of Talisman. Tier II Talismans are crafted using two Teir I 
 <summary>CYG Ingredients</summary>
 
 * **Gatherables**
-  * **Talisman Core** - Found from crates and killing witches.
   * **Silicon Fragment** - Found from digging Sand and Red Sand.
   * **Rubber Fragment** - Found from chopping down Wood.
   * **Ancient Coin Fragment** - Found from digging Dirt, Sand, Soul Sand, Gravel, etc.
