@@ -35,7 +35,7 @@ All functioning Spawners must be obtained from the Spawners & Fuel Trader at /wa
 
 ### Using Spawners
 
-Once you've traded Spawner Shards and Mob Essence(link) for a Spawner, this can be placed anywhere in the world and can only be picked up with the use of a Silk Touch pickaxe.
+Once you've traded Spawner Shards and [Mob Essence](mob-spawners.md#fuel-types) for a Spawner, this can be placed anywhere in the world and can only be picked up with the use of a Silk Touch pickaxe.
 
 To interact with the spawner, right-click to open the GUI. Here, you can view a variety of information about the spawner, the fuel it takes to run the spawner and information on upgrading the spawner.
 
