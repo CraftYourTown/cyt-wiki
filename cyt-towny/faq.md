@@ -19,9 +19,9 @@
 **A:** Our custom fish are a part of a plugin that allows you to earn money and upgrade your fishing skills! Type /fish menu or crouch and right click your fishing rod for more info!
 
 **Q: What is** [**Entropy**](content/fishing.md#what-is-entropy)**?**\
-**A:** Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!&#x20;
+**A:** Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!
 
-**Q: How do I find** [**Fossils**](../cyt-survival/content/fossils.md)**, and what are they?**\
+**Q: How do I find** [**Fossils**](../cyt-smp/content/fossils.md)**, and what are they?**\
 **A:** You can find Dirty Fossils by mining, and clean at /warp Archaeologist! Once cleaned, you can discover what type it is by right clicking the Clean Fossil, and then add it to your Fossil Collection for rewards per collection completed!
 
 **Q: What is the** [**Bank**](content/bank.md)**?**\
@@ -49,10 +49,10 @@
 **A:** https://craftyourtown.com/apply
 
 **Q: How do I join the Discord?**\
-**A:** You can join the Discord by typing /discord in-game and clicking on the link, or using [https://discord.gg/cyt ](https://discord.com/invite/cyt)
+**A:** You can join the Discord by typing /discord in-game and clicking on the link, or using [https://discord.gg/cyt](https://discord.com/invite/cyt)
 
 **Q: I need help, how do I make a ticket?**\
 **A:** You can always contact online Staff when you’re in-game for general support, or you can create a ticket in our Discord by clicking on “Open a ticket” in the #create-a-ticket channel!
 
-**Q: How do I vote and join** [**VoteParties**](../cyt-survival/content/voting-and-vote-parties.md)**?**\
+**Q: How do I vote and join** [**VoteParties**](../cyt-smp/content/voting-and-vote-parties.md)**?**\
 **A:** You can vote by typing /v in-game and typing your username in each link (remember to type your name as shown on the tablist)! Then stay online to join our VoteParties for every 75 votes!
