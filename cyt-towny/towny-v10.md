@@ -3,8 +3,8 @@ description: >-
   We're actively working on making sure this is up to date with the latest and
   helpful information. This is new and experimental so some things may be
   missing.
-cover: ../.gitbook/assets/CYT-Banner.jpg
-coverY: 0
+cover: ../.gitbook/assets/cover1.png
+coverY: -227.38522954091817
 layout:
   cover:
     visible: true

@@ -50,6 +50,7 @@
   * [Ranks](cyt-towny/content/ranks.md)
   * [Skins](cyt-towny/content/skins.md)
   * [Talismans](cyt-towny/content/talismans.md)
+  * [Teleporters](cyt-towny/content/teleporters.md)
   * [Trade](cyt-towny/content/trade.md)
   * [Tournaments](cyt-towny/content/tournaments.md)
   * [Towers](cyt-towny/content/towers.md)
