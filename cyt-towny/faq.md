@@ -3,7 +3,7 @@
 **Q: How do I join a town?**\
 **A:** [Click here](towny/find-a-town.md) or type `/findatown` in-game
 
-**Q:** How do I make money?\
+**Q: How do I make money?**\
 **A:** Check `/features` - each feature shown displays if money can be earnt
 
 **Q: How do I join a** [**Job**](content/jobs.md)**?**\
