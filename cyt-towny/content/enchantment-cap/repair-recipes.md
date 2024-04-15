@@ -24,7 +24,7 @@ When repairing a broken enchantment book, you will be given back the original bo
 |         6         |           3          |       10       |
 |         7         |           4          |       15       |
 
-## Maximum Enchant Level: 6Maximum Enchant Level: 7
+## Maximum Enchant Level: 7
 
 #### Enchants:
 
