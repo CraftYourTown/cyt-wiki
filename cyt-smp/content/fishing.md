@@ -200,7 +200,7 @@ Precision Cutting gives you more entropy from gutting fish using the Gutting Sta
 
 * 1x Anvil
 * 1x Diamond Sword
-* 1x Iron Sword
+* 1x Iron Axe
 * 16x Cobblestone
 * 2x Emerald
 * 3x Lapis Block

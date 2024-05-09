@@ -63,17 +63,17 @@ There are 12 different Augments available to be crafted and all can be applied t
 
 <summary>Hot Spot</summary>
 
-#### Description
+**Description**
 
-Hot Spot will give you a chance to get more than one fish per catch. The higher the level of the augment, the higher the chance to catch fish and the more fish that you will catch from one single catch.&#x20;
+Hot Spot will give you a chance to get more than one fish per catch. The higher the level of the augment, the higher the chance to catch fish and the more fish that you will catch from one single catch.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **10**
 * Entropy Cost: **50,000**
 * Max Augment Level: **13**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 16x Glistering Melon Slice
 * 32x String
@@ -87,17 +87,17 @@ Hot Spot will give you a chance to get more than one fish per catch. The higher 
 
 <summary>Call of the Storm</summary>
 
-#### Description
+**Description**
 
 Call of the Storm gives you a chance to catch more fish while it is raining. The higher the augment level, the higher the chance to get more fish.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **12**
 * Entropy Cost: **40,000**
 * Max Augment Level: **5**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 1x Water Bucket
 * 1x Oak Boat
@@ -111,17 +111,17 @@ Call of the Storm gives you a chance to catch more fish while it is raining. The
 
 <summary>Saturate</summary>
 
-#### Description
+**Description**
 
 Saturate gives you a random chance to refill your hunger when catching a fish. The higher the augment level, the greater the chance of getting fed.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **12**
 * Entropy Cost: **35,000**
 * Max Augment Level: **5**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 16x Cooked Beef
 * 1x Cake
@@ -134,17 +134,17 @@ Saturate gives you a random chance to refill your hunger when catching a fish. T
 
 <summary>Sage</summary>
 
-#### Description
+**Description**
 
 Sage gives you more fishing XP towards the plugin whenever you catch a fish. The higher the augment level, the more XP you will get from catching custom fish!
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **12**
 * Entropy Cost: **57,500**
 * Max Augment Level: **10**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 8x Gold Block
 * 16x Crab Scale (obtained by killing crabs)
@@ -160,17 +160,17 @@ Sage gives you more fishing XP towards the plugin whenever you catch a fish. The
 
 <summary>Biome Disruption</summary>
 
-#### Description
+**Description**
 
 Biome Disruption gives you a chance to catch random fish from other biomes when fishing. The higher the augment level, the higher the chance.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **16**
 * Entropy Cost: **60,000**
 * Max Augment Level: **3**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 16x Oak Log
 * 16x Snowball
@@ -186,21 +186,21 @@ Biome Disruption gives you a chance to catch random fish from other biomes when 
 
 <summary>Precision Cutting</summary>
 
-#### Description
+**Description**
 
 Precision Cutting gives you more entropy from gutting fish using the Gutting Station. The higher the level, the more entropy you will get overall.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **22**
 * Entropy Cost: **70,000**
 * Max Augment Level: **8**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 1x Anvil
 * 1x Diamond Sword
-* 1x Iron Sword
+* 1x Iron Axe
 * 16x Cobblestone
 * 2x Emerald
 * 3x Lapis Block
@@ -214,17 +214,17 @@ Precision Cutting gives you more entropy from gutting fish using the Gutting Sta
 
 <summary>Crab Bait</summary>
 
-#### Description
+**Description**
 
 Crab Bait gives you a higher chance to catch crabs while fishing. Very useful to grind crab scales and crab claws for other augments.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **25**
 * Entropy Cost: **40,000**
 * Max Augment Level: **5**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 1x Water Bucket
 * 10x Crab Claw (obtained by killing crabs)
@@ -237,17 +237,17 @@ Crab Bait gives you a higher chance to catch crabs while fishing. Very useful to
 
 <summary>Intellect</summary>
 
-#### Description
+**Description**
 
 Intellect gives you more XP from catching fish. The higher the augment level, the more XP you will get from catching fish.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **25**
 * Entropy Cost: **50,000**
 * Max Augment Level: **10**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 20x Lapis Block
 * 8x Book
@@ -261,17 +261,17 @@ Intellect gives you more XP from catching fish. The higher the augment level, th
 
 <summary>Perception</summary>
 
-#### Description
+**Description**
 
 Perception gives you more entropy from catching custom fish. The higher the level of the augment, the more entropy you will get from catching custom fish.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **28**
 * Entropy Cost: **75,000**
 * Max Augment Level: **7**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 32x Grass
 * 4x Glowstone
@@ -285,17 +285,17 @@ Perception gives you more entropy from catching custom fish. The higher the leve
 
 <summary>Trophy</summary>
 
-#### Description
+**Description**
 
 Trophy gives you a higher chance to profit from the fish scales. The higher the augment level, the greater the chance to make money will be.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **35**
 * Entropy Cost: **60,000**
 * Max Augment Level: **6**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 32x Iron Block
 * 16x Gold Block
@@ -310,17 +310,17 @@ Trophy gives you a higher chance to profit from the fish scales. The higher the 
 
 <summary>Solar Rage</summary>
 
-#### Description
+**Description**
 
 Solar Rage gives you more money when selling fish in the fish shop. The higher the level of the augment, the more money bonus you get.
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **35**
 * Entropy Cost: **75,000**
 * Max Augment Level: **5**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 8x Gold Block
 * 5x Diamond Block
@@ -335,17 +335,17 @@ Solar Rage gives you more money when selling fish in the fish shop. The higher t
 
 <summary>Master Fisherman</summary>
 
-#### Description
+**Description**
 
 Master Fisherman gives you a higher chance to catch higher-tier fish. This augment is more like a prestigious token than anything. Only for the best and most dedicated fishermen!
 
-#### Requirements
+**Requirements**
 
 * Required Fishing Level: **45**
 * Entropy Cost: **1200,000**
 * Max Augment Level: **20**
 
-#### Crafting Requirements
+**Crafting Requirements**
 
 * 1x Nether Star
 * 8x Ghast Tear
