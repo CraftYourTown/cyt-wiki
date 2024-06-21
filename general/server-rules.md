@@ -58,10 +58,40 @@ _Please note we do not enforce chat rules 1-9 in direct message logs without a r
 
 _If a player is targeted, bullied, harassed, or made to feel isolated in-game on CYT due to someone spreading misinformation/rumours/gossip about them outside of CYT official platforms (e.g gossiping on another Discord server, in private with other players etc), you will be punished accordingly for it. For example, if you spread harmful or defamatory misinformation about someone and encourage everyone to ignore them or outlaw them from your town, with the intent of trying to isolate them/make them have a bad experience, you will be held responsible for that harassment and be punished for it accordingly. If you have personal issues with another player and those issues do not break CYT rules, it is not your responsibility to spread those issues around - mind your own business, and let other people make their own decisions about someone. If those issues do break CYT rules, they will be dealt with accordingly by staff, and should not be discussed further than a report. This is a Minecraft server, a place to relax and have fun, not to spread hate!_
 
-## Allowed Mods
+## Allowed Modifications
 
-* Inventory/Mouse Tweaks Mods&#x20;
-* Schematica (without Printer)&#x20;
-* Mini-maps (without Radar/Cave Finder)&#x20;
-* Aesthetic Mods (Shaders, Texturepacks)&#x20;
-* Keybind Macros (For welcome messages, common help responses, and adverts only)
+**Inventory and Mouse Tweaks**\
+_e.g., ItemScroller, Mouse Tweaks, Chest Tracker, Inventory Profiles Next_
+
+**Schematica/Litematica**\
+_excluding Printer functionality_
+
+**Mini-maps**\
+_e.g., Xaero's Minimap, JourneyMap_
+
+**Aesthetic Enhancements**\
+_Shaders, Resource Packs, VanillaTweaks, etc._
+
+**Keybind Macros**\
+_for welcome messages, common help responses, advertisements, etc._
+
+**Performance Optimization Mods**\
+_e.g., Sodium, OptiFine, Entity Culling_
+
+**Chat Customization Mods**\
+_e.g., Chat Heads, AdvancedChat_
+
+**HUD Improvements**\
+_e.g., MiniHud, InventoryHud+_
+
+**Light Quality-of-Life Enhancements**\
+_e.g., Toggle Sprint, Better PvP, etc._
+
+**Freecam & Replay Mod**
+
+**Crafting Assistance Mods**\
+_e.g., Better Recipe Book, Item Scroller_
+
+Please ensure all mods comply with fair play guidelines and do not provide an unfair advantage.
+
+_Mods listed are examples and do not cover every possible mod. If you are unsure if a mod is allowed, ask!_
