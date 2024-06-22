@@ -184,6 +184,7 @@ There are two tiers of Talisman. Tier II Talismans are crafted using two Teir I 
   * **Electrical Shard** - Crafted in a Constructor.
   * **Power Shard** - Crafted in a Constructor.
   * **Ancient Coin** - Crafted in a Constructor. Used at /warp wizard to upgrade books past their max vanilla values.
+  * **Enchanted Ancient Coin** - Obtained from [Daily Rewards](daily-rewards.md) and from the [Demon Tower](towers.md)
 
 </details>
 
