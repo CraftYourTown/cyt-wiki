@@ -35,3 +35,5 @@ To become a Priest, you need to be an Obsidian (Towny) or Dolphin (SMP) rank mem
 `/marry gift` - Gift the item in your hand to your spouse
 
 Kissing - Sneak and right-click your spouse to kiss
+
+Regeneration 1 when in 10 block radius of each other
