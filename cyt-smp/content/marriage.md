@@ -8,7 +8,7 @@ Marriage is a purely ceremonial in-game event triggered by players in our church
 
 ### How do you get married?
 
-To get married, you need two players and a Priest. The priest should then run `/marry <player1> <player2>` and then needs to select the positions where player1 and player2 will stand by typing `/marry pos1` and `/marry pos2` . The Priest will then be instructed to repeat a short script and the players to marry will have to say 'I do' or 'I do not' when prompted.
+To get married, you need two players and a Priest (all must be within 20 blocks of each other). The priest should then run `/marry <player1> <player2>` and then needs to select the positions where player1 and player2 will stand by typing `/marry pos1` and `/marry pos2` . The Priest will then be instructed to repeat a short script and the players to marry will have to say 'I do' or 'I do not' when prompted.
 
 ### How do you become a Priest?
 
