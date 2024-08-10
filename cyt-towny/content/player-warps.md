@@ -23,7 +23,7 @@ Useful commands for your Player Warp:
 * /pw rename \<warp> \<newname> - Rename your warp (costs: £2500)
 * /pw ban set/remove \<warp> \<player> - Ban/remove a banned player from your Player Warp
 * /pw rate \<warp> <1-5> - Give a Player Warp a rating between 1 to 5 stars
-* /pw reset \<warp> - Changes (re-sets not reset) the player warp location
+* /pw reset \<warp> - Changes (re-sets not reset) the player warp location (costs: £5000)
 * /pw lock \warp> - Locks/unlocks Player Warp access
 * /pw password \<set/remove> \<warp> \<password> - Set/remove a password for accessing a Player Warp
 
