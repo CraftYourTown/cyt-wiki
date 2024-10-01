@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Repair Recipes
 
 {% hint style="info" %}
