@@ -4,98 +4,60 @@
 Click [here](./) for more information about our Enchantments!
 {% endhint %}
 
-## Maximum Enchant Level: 8
-
-#### Enchants:
+## Maximum Enchant Level: 10
 
 * Efficiency
 
-#### Recipe Table:
+## Maximum Enchant Level: 9
 
-| Enchantment Level | Ancient Coins Needed | Fail Chance |
-| :---------------: | :------------------: | :---------: |
-|         1         |           1          |      10     |
-|         2         |           2          |      15     |
-|         3         |           3          |      20     |
-|         4         |           4          |      25     |
-|         5         |           5          |      30     |
-|         6         |           6          |      35     |
-|         7         |           7          |      40     |
-
-## Maximum Enchant Level: Maximum Enchant Level: 7
-
-#### Enchants:
-
-* Bane of Arthropods
-* Impaling
-* Power
 * Sharpness
 * Smite
+* Bane of Arthropods
 
-#### Recipe Table:
+## Maximum Enchant Level: 8
 
-| Enchantment Level | Ancient Coins Needed | Fail Chance |
-| :---------------: | :------------------: | :---------: |
-|         1         |           1          |      10     |
-|         2         |           2          |      15     |
-|         3         |           3          |      20     |
-|         4         |           4          |      25     |
-|         5         |           5          |      30     |
-|         6         |           6          |      35     |
+* Impaling
+* Power
+
+## Maximum Enchant Level: 7
+
+* Unbreaking
+* Feather Falling
 
 ## Maximum Enchant Level: 6
 
-#### Enchants:
-
-* Blast Protection
-* Feather Falling
-* Fire Protection
-* Piercing
-* Projectile Protection
-* Protection
-
-#### Recipe Table:
-
-| Enchantment Level | Ancient Coins Needed | Fail Chance |
-| :---------------: | :------------------: | :---------: |
-|         1         |           2          |      15     |
-|         2         |           3          |      20     |
-|         3         |           4          |      25     |
-|         4         |           5          |      30     |
-|         5         |           6          |      35     |
+* Fortune
+* Looting
+* Luck of The Sea
+* Lure
+* Thorns
 
 ## Maximum Enchant Level: 5
 
-#### Enchants:
-
-* Fortune
-* Looting
-* Luck of the Sea
-* Lure
-* Quick Charge
-* Thorns
-* Unbreaking
-
-#### Recipe Table:
-
-| Enchantment Level | Ancient Coins Needed | Fail Chance |
-| :---------------: | :------------------: | :---------: |
-|         1         |           3          |      20     |
-|         2         |           4          |      25     |
-|         3         |           5          |      30     |
-|         4         |           6          |      35     |
+* Punch
+* Respiration
+* Sweeping Edge
 
 ## Maximum Enchant Level: 4
 
-#### Enchants:
+* Fire Aspect
 
-* Knockback
-* Punch
+## Upgrade & Repair Prices
+
+#### Max level means max level of that tier, for example max level for efficiency will be 10, max level for feather falling will be 7. Therefore max level -1 is that enchant’s maximum level -1, so for efficiency it would be efficiency 9 and for feather falling it would be level 6.
+
+Repair will be half the maximum amount of coins needed to upgrade to that level rounded up, and there will be no break chance (for example, a broken efficiency 8 book will use half the amount of coins needed to get from efficiency 7 to efficiency 8, which is 12 coins, so 6 coins are required to fix with no break chance).
 
 #### Recipe Table:
 
-| Enchantment Level | Ancient Coins Needed | Fail Chance |
-| :---------------: | :------------------: | :---------: |
-|         1         |           4          |      25     |
-|         2         |           5          |      30     |
-|         3         |           6          |      35     |
+|    Enchantment Level    |      Ancient Coins Needed      |    Fail Chance   |
+| :---------------------: | :----------------------------: | :--------------: |
+|   Upgrade to Max Level  | Minimum 6 coins (max 19 coins) | - 7.5% per coin  |
+| Upgrade to Max Level -1 | Minimum 6 coins (max 15 coins) |  - 10% per coin  |
+| Upgrade to Max Level -2 | Minimum 5 coins (max 12 coins) | - 12.5% per coin |
+| Upgrade to Max Level -3 | Minimum 4 coins (max 10 coins) |  - 15% per coin  |
+| Upgrade to Max Level -4 |  Minimum 4 coins (max 7 coins) |  - 25% per coin  |
+| Upgrade to Max Level -5 |  Minimum 3 coins (max 5 coins) |  - 35% per coin  |
+| Upgrade to Max Level -6 |  Minimum 2 coins (max 4 coins) |  - 40% per coin  |
+| Upgrade to Max Level -7 |  Minimum 1 coin (max 3 coins)  |  - 40% per coin  |
+| Upgrade to Max Level -8 |  Minimum 1 coin (max 2 coins)  |  - 90% per coin  |
