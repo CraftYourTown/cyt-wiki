@@ -30,13 +30,7 @@ To repair a broken enchanted book, you will need to visit the Wizard at **/warp 
 
 In the left slot, place the broken enchanted book you wish to repair, and in the right slot, the amount of [Ancient Coins](./#ancient-coins) that are needed to repair that enchanted book!
 
-For a list of the repair recipes, [click here](broken-reference).
-
-{% hint style="danger" %}
-There is a chance of the repair failing. In this case, the broken enchanted book will be destroyed, though your Ancient Coins will be still used up.
-{% endhint %}
-
-### Ancient Coins <a href="#ancient-coins" id="ancient-coins"></a>
+### Ancient Coin <a href="#ancient-coins" id="ancient-coins"></a>
 
 There are three types of Ancient Coin items:
 
@@ -44,20 +38,80 @@ There are three types of Ancient Coin items:
 * Ancient Coins - Items that are used in every Upgrade and Repair recipe!
 * Enchanted Ancient Coins - Items that are used in every Upgrade and Repair recipe though don't allow the upgrade/repair to fail!
 
-#### Obtaining Ancient Coin Fragments
+Ancient Coins can be used to upgrade the following enchanted books:
 
-Ancient Coin Fragments can be obtained by digging for them in the following blocks:
+* Efficiency
+* Unbreaking
+* Fortune
 
-* Clay
-* Mud
-* Dirt
-* Coarse Dirt
-* Rooted Dirt
-* Podzol
-* Mycelium
-* Grass Blocks
-* Sand
-* Red Sand
-* Gravel
-* Soul Sand
-* Soul Soil
+Ancient Coin Fragments can be obtained by completing the following actions:
+
+* Digging:\
+  Clay, Mud, Dirt, Coarse Dirt, Rooted Dirt, Podzol, Mycelium, Grass Block, Sand, Red Sand, Gravel, Soul Sand, Soul Soil, Suspicious gravel, Suspicious sand
+* Mining:\
+  Andesite, Basalt, Blackstone, Bone block, Cobbled Deepslate, Deepslate, Diorite, Gilded blackstone, Granite, Nether gold ore, Netherrack, Red sandstone, Sandstone, Terracottas, Deepslate gold ore, Gold ore
+* Farming:\
+  Beetroots, Carrots, Potatoes, Wheat
+
+## Glistening Pearl
+
+Glistening Pearls can be used to upgrade the following enchanted books:
+
+* Lure
+* Luck of The Sea
+* Respiration
+
+Glistening Pearls can be obtained by completing the following actions:
+
+* Killing:\
+  Axolotl, Cod, Salmon, Pufferfish, Tropical Fish, Glow squid/Squid, Dolphin, Turtle, Guardian, Elder Guardian, Drowned, Tadpole
+* Breaking:\
+  Turtle Eggs, Ice, Packed Ice, Blue Ice, Coral Blocks, Corals, Coral Fans, Seagrass, Kelp
+* Fishing
+
+## Protective Amulet
+
+Protective Amulets can be used to upgrade the following enchanted books:
+
+* Protection
+* Blast Protection
+* Fire Protection
+* Projectile Protection
+* Thorns
+* Feather Falling
+
+Protective Amulets can be obtained by completing the following actions:
+
+* Killing:\
+  Neutral or Hostile mobs
+
+## Tarnished Blade
+
+Tarnished Blades can be used to upgrade the following enchanted books:
+
+* Sharpness
+* Smite
+* Bane of Arthropods
+* Looting
+* Fire Aspect
+* Sweeping Edge
+
+Tarnished Blades can be obtained by completing the following actions:
+
+* Killing:\
+  Any mob
+
+## Refined Arrow
+
+Refined Arrows can be used to upgrade the following enchanted books:
+
+* Impaling
+* Piercing
+* Punch
+* Power
+* Quick Charge
+
+Refined Arrows can be obtained by completing the following actions:
+
+* Killing Ranged Mobs:\
+  Skeleton, Drowned, Llama, Piglin, Trader Llama, Elder Guardian, Blaze, Ender Dragon, Evoker, Guardian
