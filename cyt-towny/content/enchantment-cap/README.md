@@ -114,4 +114,4 @@ Refined Arrows can be used to upgrade the following enchanted books:
 Refined Arrows can be obtained by completing the following actions:
 
 * Killing Ranged Mobs:\
-  Skeleton, Drowned, Llama, Piglin, Trader Llama, Elder Guardian, Blaze, Ender Dragon, Evoker, Guardian
+  Skeleton, Drowned, Llama, Piglin, Trader Llama, Elder Guardian, Blaze, Ender Dragon, Evoker, Guardian, Warden
