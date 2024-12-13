@@ -61,36 +61,36 @@ _If a player is targeted, bullied, harassed, or made to feel isolated in-game on
 ## Allowed Modifications
 
 **Inventory and Mouse Tweaks**\
-_e.g., ItemScroller, Mouse Tweaks, Chest Tracker, Inventory Profiles Next_
+&#xNAN;_&#x65;.g., ItemScroller, Mouse Tweaks, Chest Tracker, Inventory Profiles Next_
 
 **Schematica/Litematica**\
-_excluding Printer functionality_
+&#xNAN;_&#x65;xcluding Printer functionality_
 
 **Mini-maps**\
-_e.g., Xaero's Minimap, JourneyMap_
+&#xNAN;_&#x65;.g., Xaero's Minimap, JourneyMap_
 
 **Aesthetic Enhancements**\
-_Shaders, Resource Packs, VanillaTweaks, etc._
+&#xNAN;_&#x53;haders, Resource Packs, VanillaTweaks, etc._
 
 **Keybind Macros**\
-_for welcome messages, common help responses, advertisements, etc._
+&#xNAN;_&#x66;or welcome messages, common help responses, advertisements, etc._
 
 **Performance Optimization Mods**\
-_e.g., Sodium, OptiFine, Entity Culling_
+&#xNAN;_&#x65;.g., Sodium, OptiFine, Entity Culling_
 
 **Chat Customization Mods**\
-_e.g., Chat Heads, AdvancedChat_
+&#xNAN;_&#x65;.g., Chat Heads, AdvancedChat_
 
 **HUD Improvements**\
-_e.g., MiniHud, InventoryHud+_
+&#xNAN;_&#x65;.g., MiniHud, InventoryHud+_
 
 **Light Quality-of-Life Enhancements**\
-_e.g., Toggle Sprint, Better PvP, etc._
+&#xNAN;_&#x65;.g., Toggle Sprint, Better PvP, etc._
 
 **Freecam & Replay Mod**
 
 **Crafting Assistance Mods**\
-_e.g., Better Recipe Book, Item Scroller_
+&#xNAN;_&#x65;.g., Better Recipe Book, Item Scroller_
 
 Please ensure all mods comply with fair play guidelines and do not provide an unfair advantage.
 

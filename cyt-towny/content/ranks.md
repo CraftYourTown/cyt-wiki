@@ -1,27 +1,21 @@
-# Ranks
+# Rankups
 
 {% hint style="info" %}
-In game command: **/rank**
+In game command: **/rankup**
 {% endhint %}
 
 ### What are ranks?
 
 Ranks are divided into two separate categories, free and premium.
 
-### Free Ranks
+### In-game Rankups
 
 We offer an in-game way of leveling up and showing your progress, every player starts at level 1 and can work towards level 10 by completing objectives.
 
-<details>
+Check out `/ranks` in-game and click "In-game Rankups" to check it out!
 
-<summary>Rank 2 Requirements</summary>
+### Store Ranks
 
-![](../../.gitbook/assets/Rank\_II\_Reference)
+These ranks are acquired with coins which can be purchased on the [Store](https://store.craftyourtown.com).
 
-</details>
-
-### Premium Ranks
-
-These ranks are acquired with coins which can be purchased in the [Store](https://store.craftyourtown.com).&#x20;
-
-{% embed url="https://docs.google.com/spreadsheets/d/1kFC4LgdNQhqxIx_xQBo4J22GE2tDRuldAj4SRIZF-90/edit#gid=0" %}
+Check out `/store` in-game and click "Store Ranks" for more info!

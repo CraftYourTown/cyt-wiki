@@ -1,5 +1,9 @@
 # Towers
 
+{% hint style="warning" %}
+This page is outdated and is awaiting updates
+{% endhint %}
+
 {% hint style="info" %}
 In-Game Commands: **/warp Towers** & **/tower**
 {% endhint %}

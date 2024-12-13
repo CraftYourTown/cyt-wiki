@@ -19,5 +19,5 @@ In mcMMO, you can apply Credits to your skills to level them up. One credit equa
 <figure><img src="https://lh4.googleusercontent.com/MOkWLzVYNQRYwd_6tCTSS68WjEt5bE19ssQu205QKXKNjpTL9VvmKy8Xtct6rId9PjHueBakyGSgnFL186MPXrsvApNmceuiJhYhWnsfvDsA_-OKzWW8GRXhNkUAZsPkdJUt-sY9OWEeh6iXSz7LkiFl3COz2LWX3TyvmFCn8S9dCcAOmDlLwoYWYDUC_Q" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-For more information on this feature, check out [this site](https://mcmmo.fandom.com/wiki/McMMO\_Wiki) on all things mcMMO!
+For more information on this feature, check out [this site](https://mcmmo.fandom.com/wiki/McMMO_Wiki) on all things mcMMO!
 {% endhint %}

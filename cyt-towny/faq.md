@@ -27,7 +27,7 @@
 **Q: What is the** [**Bank**](content/bank.md)**?**\
 **A:** The Bank is a place where you store your money to earn interest on it! You can upgrade your bank to store more money and earn a higher interest! You also claim the money you earned from your Job at /warp Bank!
 
-**Q: How do I upgrade/repair enchantments, and how do I get** [**Ancient Coins**](content/enchantment-cap/#ancient-coins)**?**\
+**Q: How do I upgrade/repair enchantments, and how do I get** [**Ancient Coins**](broken-reference)**?**\
 **A:** You can upgrade and repair your enchanted books at /warp Wizard using Ancient coins, which are found by digging! You will also find Fragments of Ancient Coins, which you can trade for a full coin at /warp Trading!
 
 **Q: How do I gain XP?**\
@@ -36,7 +36,7 @@
 **Q: How do I sell things?**\
 **A:** You can sell your items in the Auction House, accessed by typing /ah, or open up a player shop by crouching and punching a chest/barrel! Alternatively, you can message in #marketplace on our Discord! Additionally, you can create chat auctions by doing /auction sell \<startbid>.
 
-**Q:** **How can I get** [**Crate Keys**](content/crates.md)**?**\
+**Q:** **How can I get** [**Crate Keys**](broken-reference)**?**\
 **A:** Gaining keys depends on the Crate, but you can participate in server activities such as Envoys, Tournaments or by voting, or if you’re looking for a Mango or Clover key, it might be worth having a look at our Store!
 
 **Q: How do I see my rank permissions, and where do I rank up?**\
