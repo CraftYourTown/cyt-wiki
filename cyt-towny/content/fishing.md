@@ -364,7 +364,7 @@ The tournament types are:
 * **Most Catch** - The player with the most fish caught by the end of the tournament wins.
 * **Base Entropy Earned** - The player who gets the most entropy from the initial catch of fish over the period of the tournament wins.
 * **Most Crabs Killed** - The player with the most crabs killed by the end of the tournament wins.
-* **Most Biomes Fished** - The player with the most biomes fished in by the end of the tournament wins.
+* **Most Biomes Fished** - The player with the most biomes fished in by the end of the tournament wins. Only vanilla Minecraft biomes will count toward this competition.
 
 ### **Prizes**
 
