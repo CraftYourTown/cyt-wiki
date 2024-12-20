@@ -10,7 +10,7 @@ PyroFishing is a custom plugin that revamps Minecraft fishing. It adds new fish,
 
 ### What are the new fish?
 
-Currently, there are 201 custom fish divided into 6 tiers of rarity.
+Currently, there are 162 custom fish divided into 6 tiers of rarity.
 
 * **Bronze**
 * **Silver**
@@ -19,15 +19,7 @@ Currently, there are 201 custom fish divided into 6 tiers of rarity.
 * **Platinum**
 * **Mythical**
 
-Out of the 201 custom fish, 35 require special bait to catch (**/fish bait**).
-
-* **Jellyfish Bait**
-* **Catfish Bait**
-* **Shark Bait**
-* **Ray Bait**
-* **Eel Bait**
-
-Some fish can only be found in specific biomes. To see a complete list of fish, their rarities, required baits, and what biomes they are located in, use **/fish codex**.
+All fish are currently available to be caught in all biomes and require no bait. To see a complete list of fish, their rarities, required baits, and what biomes they are located in, use **/fish codex**.
 
 ### What is Entropy?
 
@@ -179,6 +171,8 @@ Biome Disruption gives you a chance to catch random fish from other biomes when 
 * 1x Water Bucket
 * 12x Dolphin Tail (obtained by killing dolphins)
 * 20x Crab Scale (obtained by killing crabs)
+
+This augment is currently unavailable as all fish are available to catch in all biomes.
 
 </details>
 
