@@ -22,7 +22,7 @@ Our custom fish are a part of a plugin that allows you to earn money and upgrade
 
 Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!
 
-**How do I find** [**Fossils**](../cyt-towny/content/fossils.md)**, and what are they?**
+**How do I find** [**Fossils**](broken-reference)**, and what are they?**
 
 You can find Dirty Fossils by mining, and clean at /warp Archaeologist! Once cleaned, you can discover what type it is by right clicking the Clean Fossil, and then add it to your Fossil Collection for rewards per collection completed!
 

@@ -14,10 +14,9 @@ The different jobs that you can join and earn money/job XP from are:
 
 * Miner
 * Excavator
-* Woodcutter
+* Lumberjack
 * Hunter
 * Farmer
-* Mage
 
 ### **How do I do my Job?**
 

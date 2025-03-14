@@ -16,7 +16,7 @@ Mob Caps are not per-chunk, in the X/Z direction (like a circle), but a **16 blo
 
 ### **Group A**
 
-**Entities in Group:** Allay, Axolotl, Bat, Bee, Blaze, Camel, Cat, Cave Spider, Cave Spider, Chicken, Cod, Cow, Creeper, Dolphin, Donkey, Drowned, Elder Guardian, Ender Dragon, Enderman, Evoker, Fox, Frog, Ghast, Giant, Guardian, Hoglin, Horse, Husk, Illusioner, Iron Golem, Llama, Magma Cube, Mooshroom, Mule, Ocelot, Panda, Parrot, Phantom, Pig, Piglin, Piglin Brute, Pillager, Polar Bear, Pufferfish, Rabbit, Ravager, Salmon, Sheep, Shulker, Silverfish, Skeleton, Skeleton Horse, Slime, Snowman, Spider, Squid, Stray, Strider, Tadpole, Trader Llama, Tropical Fish, Turtle, Vex, Vindicator, Wandering Trader, Warden, Witch, Wither, Wither Skeleton, Wolf, Zoglin, Zombie, Zombie Horse, Zombified Piglin
+**Entities in Group:** Allay, Armadillo, Axolotl, Bat, Bee, Blaze, Camel, Cat, Cave Spider, Cave Spider, Chicken, Cod, Cow, Creeper, Dolphin, Donkey, Drowned, Elder Guardian, Ender Dragon, Enderman, Evoker, Fox, Frog, Ghast, Giant, Guardian, Hoglin, Horse, Husk, Illusioner, Iron Golem, Llama, Magma Cube, Mooshroom, Mule, Ocelot, Panda, Parrot, Phantom, Pig, Piglin, Piglin Brute, Pillager, Polar Bear, Pufferfish, Rabbit, Ravager, Salmon, Sheep, Shulker, Silverfish, Skeleton, Skeleton Horse, Slime, Snowman, Spider, Squid, Stray, Strider, Tadpole, Trader Llama, Tropical Fish, Turtle, Vex, Vindicator, Wandering Trader, Warden, Witch, Wither, Wither Skeleton, Wolf, Zoglin, Zombie, Zombie Horse, Zombified Piglin
 
 **Cap per 16 block radius:** 25
 
