@@ -33,7 +33,7 @@ Some fish can only be found in specific biomes. To see a complete list of fish, 
 
 Entropy is a currency used for Fishing. Entropy can be used to buy upgrades and augments.
 
-You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](broken-reference) here on CYT!
+You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](../../cyt-towny/content/crates.md) here on CYT!
 
 ### What are the Augments?
 
@@ -55,7 +55,7 @@ Be sure that you have the required fishing level (**/fish stats**), entropy (**/
 
 To apply an augment to your fishing rod, use the command **/fish augment**, place your fishing rod in the left slot (this can be done by shift-clicking the rod in your inventory), and the augment you wish to put onto the rod next to it. Then click the green panel to the right, which will confirm the combination and give you back your fishing rod with the newly added augment!
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 There are 12 different Augments available to be crafted and all can be applied to your fishing rod at once, to view these augments in-game, use the command **/fish augments**. They're also listed here:
 

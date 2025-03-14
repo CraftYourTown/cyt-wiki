@@ -10,7 +10,7 @@ PyroFishing is a custom plugin that revamps Minecraft fishing. It adds new fish,
 
 ### What are the new fish?
 
-Currently, there are 162 custom fish divided into 6 tiers of rarity.
+Currently, there are 201 custom fish divided into 6 tiers of rarity.
 
 * **Bronze**
 * **Silver**
@@ -19,13 +19,21 @@ Currently, there are 162 custom fish divided into 6 tiers of rarity.
 * **Platinum**
 * **Mythical**
 
-All fish are currently available to be caught in all biomes and require no bait. To see a complete list of fish, their rarities, required baits, and what biomes they are located in, use **/fish codex**.
+Out of the 201 custom fish, 35 require special bait to catch (**/fish bait**).
+
+* **Jellyfish Bait**
+* **Catfish Bait**
+* **Shark Bait**
+* **Ray Bait**
+* **Eel Bait**
+
+Some fish can only be found in specific biomes. To see a complete list of fish, their rarities, required baits, and what biomes they are located in, use **/fish codex**.
 
 ### What is Entropy?
 
 Entropy is a currency used for Fishing. Entropy can be used to buy upgrades and augments.
 
-You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](broken-reference) here on CYT!
+You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](crates.md) here on CYT!
 
 ### What are the Augments?
 
@@ -47,7 +55,7 @@ Be sure that you have the required fishing level (**/fish stats**), entropy (**/
 
 To apply an augment to your fishing rod, use the command **/fish augment**, place your fishing rod in the left slot (this can be done by shift-clicking the rod in your inventory), and the augment you wish to put onto the rod next to it. Then click the green panel to the right, which will confirm the combination and give you back your fishing rod with the newly added augment!
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 There are 12 different Augments available to be crafted and all can be applied to your fishing rod at once, to view these augments in-game, use the command **/fish augments**. They're also listed here:
 
@@ -171,8 +179,6 @@ Biome Disruption gives you a chance to catch random fish from other biomes when 
 * 1x Water Bucket
 * 12x Dolphin Tail (obtained by killing dolphins)
 * 20x Crab Scale (obtained by killing crabs)
-
-This augment is currently unavailable as all fish are available to catch in all biomes.
 
 </details>
 
@@ -364,13 +370,12 @@ The tournament types are:
 * **Most Catch** - The player with the most fish caught by the end of the tournament wins.
 * **Base Entropy Earned** - The player who gets the most entropy from the initial catch of fish over the period of the tournament wins.
 * **Most Crabs Killed** - The player with the most crabs killed by the end of the tournament wins.
-* **Most Biomes Fished** - The player with the most biomes fished in by the end of the tournament wins. Only vanilla Minecraft biomes will count toward this competition.
+* **Most Biomes Fished** - The player with the most biomes fished in by the end of the tournament wins.
 
 ### **Prizes**
 
-At the end of the tournament, players in 1st, 2nd, 3rd place, and participation rewards are rewarded:
+At the end of the tournament, players in 1st, 2nd, and 3rd place are rewarded:
 
-* **1st Place** - 1 Rare Key, 1 Uncommon Key & £2000
-* **2nd Place** - 2 Uncommon Keys & £1000
-* **3rd Place** - 1 Uncommon Key & £500
-* **Participation** - £100
+* **1st Place** - 3 Reward Crate Keys + £2,500
+* **2nd Place** - 2 Reward Crate Keys + £1,250
+* **3rd Place** - 1 Reward Crate Key + £500

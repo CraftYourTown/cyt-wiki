@@ -26,6 +26,6 @@ Clean Fossils are obtained by cleaning Dirty Fossils at the Archaeologist's camp
 
 To gain rewards for collecting fossils, you can submit your fossils into your Fossil Collection, which can be accessed via the Archaeologist (**/warp fossils**). To submit a fossil, click the corresponding icon within the Collection page, this will take the fossil from your inventory and display it within the Collection.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Once a skull, torso and tail have been submitted for a whole species, you can claim a reward by clicking the chest icon to the right of the submission area.

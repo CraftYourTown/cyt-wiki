@@ -5,7 +5,7 @@
 | Name                           | Cost                      | Town Bank or Player's Cash           |
 | ------------------------------ | ------------------------- | ------------------------------------ |
 | Creating a Town                | £2500                     | Player's Cash                        |
-| Upkeep                         | £15/claimed townblock/day | Town Bank                            |
+| Upkeep                         | £10/claimed townblock/day | Town Bank                            |
 | Default Tax (for town members) | £50                       | Player's Cash                        |
 | Default Shop/Plot/Embassy Tax  | £50                       | Player's Cash                        |
 | Rename Town                    | £2500                     | Town Bank                            |

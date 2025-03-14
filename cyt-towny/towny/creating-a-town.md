@@ -4,7 +4,7 @@
 
 #### **Requirements:**
 
-£10000 Cash (to make the town)\
+£2500 Cash (to make the town)\
 Around £5000-10000 extra cash for claiming land and initial upkeep
 
 #### **Step 1: Making the town**
@@ -17,15 +17,15 @@ Towns must be at least **12 chunks away** from each other or you will be unable 
 
 #### **Step 2: Funding your town**
 
-You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.&#x20;
+You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.
 
-This is important because your town will need to pay daily upkeep based on the amount of land you have claimed, it currently is £15 per townblock per day. You can view your town size and upkeep at any time on `/town`.
+This is important because your town will need to pay daily upkeep based on the amount of members in the town.&#x20;
 
 Daily Upkeep is taken at a certain time daily, you can do `/towny time` to see a countdown. Money in the town bank is also used for buying claim blocks and claiming chunks.&#x20;
 
 #### **Step 3: Claiming land**
 
-Land is done on a chunk basis, to see the chunk visualiser, press F3+G (or CMD+F3+G on Mac). Claimed chunks are known within Towny as townblocks. You can claim as many townblocks as your "Town Size: 1/X" shows in **/t**. You will already have 1 claimed as that is the town's homeblock.
+Land is done on a chunk basis, to see the chunk visualiser, press F3+G (or CMD+F3+G on Mac). You can claim as many chunks as your "Town Size: 1/X" shows in **/t**. You will already have 1 claimed as that is the homeblock.
 
 To claim, stand in a chunk next to the one you've just claimed (your home block). You have to claim chunks that are already directly connected to your town unless you're making an outpost (a town claim away from your main town area, as explained in Step 4).
 

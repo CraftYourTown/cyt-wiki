@@ -1,6 +1,6 @@
 # Marriage
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>/warp Church</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>/warp Church</p></figcaption></figure>
 
 ## What is marriage?
 

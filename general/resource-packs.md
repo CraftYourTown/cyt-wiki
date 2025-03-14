@@ -1,4 +1,4 @@
-# 🛠️ Resource Packs
+# 🛠 Resource Packs
 
 ### **Want to enable our server's resource pack?**
 

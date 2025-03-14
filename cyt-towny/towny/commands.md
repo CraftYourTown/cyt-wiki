@@ -193,8 +193,8 @@ All /resident commands can be shortened with /res\
 **/tc**\
 Toggles town chat\
 \
-&#xNAN;**/nc**\
+**/nc**\
 Toggles nation chat\
 \
-&#xNAN;**/g**\
+**/g**\
 Toggles global chat

@@ -1,4 +1,4 @@
-# ⛏️ Land Claiming
+# ⛏ Land Claiming
 
 {% hint style="info" %}
 In-Game Command: **/claim**

@@ -1,16 +1,12 @@
 # Towers
 
-{% hint style="warning" %}
-This page is outdated and is awaiting updates
-{% endhint %}
-
 {% hint style="info" %}
 In-Game Commands: **/warp Towers** & **/tower**
 {% endhint %}
 
 ### What are the Towers?
 
-The Towers consist of the Angel, Demon, and Sculk Towers, three unique PVE (Player versus Environment) mini-games within CYT's Towny.
+The Towers consist of the Angel and Demon Towers, two unique PVE (Player versus Environment) mini-games within CYT's Towny.
 
 To progress within each tower, you need to kill the boss of the level. There are currently **5** levels and each get more difficult with more mobs, damage, knockback resistance and health. Within each level there are **5** waves of 'Minions' that will spawn to help defend the boss, if the boss is killed prior to all waves being completed, the waves are stopped for that level.
 

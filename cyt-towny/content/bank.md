@@ -1,4 +1,4 @@
-# Banking
+# Bank
 
 {% hint style="info" %}
 In-Game Command: **/warp bank** or **/bank** (unlocked at Rank VI)
@@ -22,7 +22,7 @@ There are no minimums.
 
 {% tabs %}
 {% tab title="Bank Tiers & Interest" %}
-<table><thead><tr><th width="157.33333333333331">Tier</th><th>Cost</th><th>Capacity</th><th>Interest Rate</th><th>Interest Delay</th></tr></thead><tbody><tr><td>Free</td><td>N/A</td><td>£25,000</td><td>0.15%</td><td>12 hours</td></tr><tr><td>Basic</td><td>£10,000</td><td>£50,000</td><td>0.15%</td><td>12 hours</td></tr><tr><td>Premium</td><td>£25,000</td><td>£100,000</td><td>0.17%</td><td>12 hours</td></tr><tr><td>Gold</td><td>£50,000</td><td>£250,000</td><td>0.18%</td><td>12 hours</td></tr><tr><td>Platinum</td><td>£100,000</td><td>£500,000</td><td>0.20%</td><td>12 hours</td></tr><tr><td>Diamond</td><td>£200,000</td><td>£1,000,000</td><td>0.22%</td><td>12 hours</td></tr><tr><td>Executive</td><td>£450,000</td><td>£2,500,000</td><td>0.25%</td><td>12 hours</td></tr></tbody></table>
+<table><thead><tr><th width="157.33333333333331">Tier</th><th>Cost</th><th>Capacity</th><th>Interest Rate</th><th>Interest Time</th></tr></thead><tbody><tr><td>Free</td><td>N/A</td><td>£25,000</td><td>0.3%</td><td>24 hours</td></tr><tr><td>Basic</td><td>£5,000</td><td>£50,000</td><td>0.3%</td><td>24 hours</td></tr><tr><td>Premium</td><td>£10,000</td><td>£100,000</td><td>0.35%</td><td>24 hours</td></tr><tr><td>Gold</td><td>£25,000</td><td>£250,000</td><td>0.35%</td><td>24 hours</td></tr><tr><td>Platinum</td><td>£50,000</td><td>£500,000</td><td>0.40%</td><td>24 hours</td></tr><tr><td>Diamond</td><td>£100,000</td><td>£1,000,000</td><td>0.40%</td><td>24 hours</td></tr><tr><td>Executive</td><td>£250,000</td><td>£2,500,000</td><td>0.45%</td><td>24 hours</td></tr><tr><td>Executive+</td><td>£500,000</td><td>£5,000,000</td><td>0.50%</td><td>24 hours</td></tr><tr><td>Ultimate</td><td>£1,000,000</td><td>£10,000,000</td><td>0.50%</td><td>24 hours</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 

@@ -10,6 +10,14 @@ One of the features of CYT is mcMMO, which is a plugin that gives you extra abil
 
 <figure><img src="https://lh4.googleusercontent.com/gIfb_7tsQFr2BInxMmdYih6c4fYGyvsYRtnNdNxFMSLriqdEb2-SfWBALXFkWBVGFudtBWdu-W9mJeJfe90eXX7tEUXpYjG8aQL0_vGJVoshv5MUb1rtvngvPoe1vB36C4j6ivM-QcdIY6TAiYxCK9dJlJI4YBFDfjwboLydU2a8ffsv04AXhWwZ19syaA" alt=""><figcaption></figcaption></figure>
 
+### What are mcMMO Credits?
+
+In mcMMO, you can apply Credits to your skills to level them up. One credit equals one level, and in case you wanted to sell them or give them to someone else, you can withdraw them from your balance into physical form, by opening the /mcmmo GUI, clicking on “Use your mcMMO Credits” and then clicking on “Withdraw Credits”. In the GUI, you can also apply your credits in your balance to specific skills, which are done by choosing which skill to apply them to, and then choosing to add up to 50 credits at a time, depending on how many you have in your balance.
+
+<figure><img src="https://lh4.googleusercontent.com/QMkypQMql66RAk6gAV12PytC0diPxEt5lUWMQKn4OFLA_bakyUDMYDf-i3462FPcHYct7jHFwcN2_-o_q8qDQeNjmmp7zWf_1MOdIq1bqrsfwj5Krp_sQzBUzwJVggJ3AWmyOjdcps2UJgbLmPEUGj1S5N6X4iG_iDV8OEIptf7tQOj0fkAAS_PbQ94otQ" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh4.googleusercontent.com/MOkWLzVYNQRYwd_6tCTSS68WjEt5bE19ssQu205QKXKNjpTL9VvmKy8Xtct6rId9PjHueBakyGSgnFL186MPXrsvApNmceuiJhYhWnsfvDsA_-OKzWW8GRXhNkUAZsPkdJUt-sY9OWEeh6iXSz7LkiFl3COz2LWX3TyvmFCn8S9dCcAOmDlLwoYWYDUC_Q" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
-For more information on this feature, check out [this site](https://mcmmo.fandom.com/wiki/McMMO_Wiki) on all things mcMMO!
+For more information on this feature, check out [this site](https://mcmmo.fandom.com/wiki/McMMO\_Wiki) on all things mcMMO!
 {% endhint %}
