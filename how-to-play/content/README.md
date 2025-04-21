@@ -14,10 +14,6 @@
 [chest-shops.md](chest-shops.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="enchant-upgrading-and-traders.md" %}
 [enchant-upgrading-and-traders.md](enchant-upgrading-and-traders.md)
 {% endcontent-ref %}
