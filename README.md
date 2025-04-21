@@ -30,5 +30,5 @@ Anyone can suggest or make changes to this Wiki by creating a pull request/issue
 {% hint style="info" %}
 ✨ **IP Address:** mc.cyt.gg\
 🌠 **Store:** [https://store.craftyourtown.com/](https://store.craftyourtown.com/)\
-🌎 **Towny Map:** [https://map.craftyourtown.com/](https://map.craftyourtown.com/)
+🌎 **Live Map:** [https://map.craftyourtown.com/](https://map.craftyourtown.com/)
 {% endhint %}
