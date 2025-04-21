@@ -73,5 +73,4 @@
 * [🛒 Store](https://store.craftyourtown.com)
 * [🎧 Discord](https://discord.com/invite/cyt)
 * [🔗 Website](https://craftyourtown.com)
-* [🗺️ Towny Map](https://towny.craftyourtown.com)
-* [🗺️ SMP Map](https://survival.craftyourtown.com)
+* [🗺️ Live Map](https://map.craftyourtown.com)
