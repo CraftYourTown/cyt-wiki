@@ -6,7 +6,7 @@ In-Game Command: **N/A**
 
 ### **What are Chest Shops?**
 
-**Chest Shops** are the best way to buy and sell large amounts of items on the server, especially when you have a [Player Warp](../../cyt-towny/content/player-warps.md) for people to visit and use those shops. **These shops support all items on the server**, including custom items here on CYT!
+**Chest Shops** are the best way to buy and sell large amounts of items on the server, especially when you have a [Player Warp](../../how-to-play/content/player-warps.md) for people to visit and use those shops. **These shops support all items on the server**, including custom items here on CYT!
 
 {% hint style="warning" %}
 There is a **15%** tax on all shop transactions
