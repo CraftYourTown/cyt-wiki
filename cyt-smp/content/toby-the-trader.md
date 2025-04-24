@@ -1,2 +1,0 @@
-# Toby the Trader
-
