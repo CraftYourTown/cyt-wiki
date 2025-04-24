@@ -28,16 +28,7 @@ description: >-
 4. **Do not intentionally interfere with a town’s expansion or design**. This includes, but is not limited to, joining a town or convincing someone to trust you in their plot with the intention to grief, destroying pre-made houses without permission, ring claiming another town, and purposefully destroying the outskirts of a town via griefing, building large walls, TNT or TNT cannons, lava and water pyramids, or anything else we deem as intended griefing
 5. **Do not invite players to your town unsolicited**, or spam invites to everyone that doesn’t currently have a town without talking to them first (e.g do not just send an invite to a player without talking to them at all prior - you should message them first and ask if they want to join, and respect their wishes if they don’t)
 
-_Please note that towns may have their own rules as long as they do not conflict with or violate the official CYT rules. If a player breaks any rule made specifically by a town, and is not an offence in CYT's rules, they will not be punished for it_
-
-## SMP Rules (apply to SMP only)
-
-1. **If a player asks you to leave their claimed area, you must stay outside the borders of their claims**
-2. **Do not set any warps in a claimed area that isn’t your own**, unless you have written permission or you can get permission when asked for it by a staff member. If the person that gave you permission to set that warp changes their mind, you must remove the warp. Warps must be set 100 blocks away or more from a claim without permission
-3. **Do not abuse your permissions to steal from trusted players in your claims**. This includes, but is not limited to, removing players from your claim or unclaiming their items for no reason while not allowing them to have their items back, or stealing items that belong to another player
-4. **Do not intentionally interfere with a player’s claimed area’s expansion or design**. This includes, but is not limited to, convincing someone to trust you in their claim with the intention to grief, destroying pre-made houses without permission, ring claiming another claimed area, and purposefully destroying the outskirts of a claim via griefing, building large walls, TNT or TNT cannons, lava and water pyramids, or anything else we deem as intended griefing
-
-_Please note that players may have their own rules for their claims as long as they do not conflict with or violate the official CYT rules. If a player breaks any rule made specifically by a player, and is not an offence in CYT's rules, they will not be punished for it_
+_Please note that towns may have their own rules as long as they do not conflict with or violate the official CYT rules. If a player breaks any rule made specifically by a town, and is not an offence in CYT's rules, they will not be punished for it_&#x20;
 
 ## Chat Rules (apply to all servers)
 

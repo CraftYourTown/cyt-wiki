@@ -38,7 +38,7 @@
 
 ## CYT SMP
 
-* [🏡 CYT SMP | Version 1](cyt-smp/v1.md)
+* [🏡 CYT SMP | Version 1](cyt-smp/cyt-smp-or-version-1.md)
 * [⛏️ Land Claiming](cyt-smp/land-claiming.md)
 * [🌱 Teleportation and Homes](cyt-smp/teleportation-and-homes.md)
 * [🍄 Content](cyt-smp/content/README.md)
@@ -47,7 +47,7 @@
   * [Clover's Cosmetics](cyt-smp/content/clovers-cosmetics.md)
   * [Cosmetics](cyt-smp/content/cosmetics.md)
   * [Crates](cyt-smp/content/crates.md)
-  * [CYG (CraftYourGadgets)](cyt-smp/content/craftyourgadgets.md)
+  * [CYG (CraftYourGadgets)](cyt-smp/content/cyg-craftyourgadgets.md)
   * [Daily Quests](cyt-smp/content/daily-quests.md)
   * [Enchantment Cap](cyt-smp/content/enchantment-cap.md)
   * [Fishing](cyt-smp/content/fishing.md)
