@@ -22,6 +22,7 @@
   * [Chest Shops](how-to-play/content/chest-shops.md)
   * [Daily Rewards](how-to-play/content/daily-rewards.md)
   * [Enchant Upgrading & Traders](how-to-play/content/enchant-upgrading-and-traders.md)
+  * [Employment](how-to-play/content/employment.md)
   * [Fishing](how-to-play/content/fishing.md)
   * [Jobs](how-to-play/content/jobs.md)
   * [Marriage](how-to-play/content/marriage.md)

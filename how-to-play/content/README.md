@@ -18,6 +18,10 @@
 [enchant-upgrading-and-traders.md](enchant-upgrading-and-traders.md)
 {% endcontent-ref %}
 
+{% content-ref url="employment.md" %}
+[employment.md](employment.md)
+{% endcontent-ref %}
+
 {% content-ref url="fishing.md" %}
 [fishing.md](fishing.md)
 {% endcontent-ref %}
