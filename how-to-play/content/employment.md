@@ -46,3 +46,4 @@ Players can accept **1** order at a time, with supporter ranks having higher lim
 * Orders will last **7** days
 * Orders must be collected (from the employer, via **/employ myorders**) within **7 days** or they will lose the items
 * Once you accept an order, you have **48 hours** to complete it
+* If you are wanting to get custom items, such as Slimefun items, use the hand command and hold it in your hand
