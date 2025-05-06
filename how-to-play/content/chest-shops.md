@@ -48,6 +48,8 @@ You will need:
 4. (_If Selling_) Put at least one of the items you want to sell in the chest
 5. (_Optional_) To change from selling to buying (or vice-versa), right-click the shop sign and click the messages to change the settings.
 
+Alternatively, you may use the various quickshop commands to create and manage your shops. For a full list of available commands, use `/qs help` while in-game.
+
 <details>
 
 <summary>Chest Shop Commands</summary>
@@ -65,4 +67,8 @@ You will need:
 
 ## Buying/Selling to a Chest Shop
 
-To interact with a chest shop, punch the shop sign and input in chat the amount you would wish to buy/sell of that item.
+To interact with a chest shop, you have two options:
+
+* Punch the shop sign and input in chat the amount you would wish to buy/sell of that item.
+* Use the command `/qs amount <quantity>`
+

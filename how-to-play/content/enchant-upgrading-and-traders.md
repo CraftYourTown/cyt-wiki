@@ -2,7 +2,7 @@
 
 ### What are the Traders?
 
-The traders are 6 NPCs in the server spawn that sell enchantment books for certain drops and experience levels.&#x20;
+The traders are 6 NPCs in the server spawn that sell enchantment books for certain drops and experience levels.
 
 The available trades are selected randomly from a preset pool and change daily at **10pm UTC**.
 
@@ -18,7 +18,7 @@ You **do not** need to be in the jobs to get the drops - they drop from doing th
 
 They are located around the server spawn but can be accessed quickly using the warp commands.
 
-* /warp Miner&#x20;
+* /warp Miner
 * /warp Fisher
 * /warp Digger
 * /warp Lumberjack
@@ -41,7 +41,7 @@ They are located around the server spawn but can be accessed quickly using the w
 
 **Captured Soul** - Obtained from hunting
 
-**Infused Soil** - Obtained from digging
+**Enriched Soil** - Obtained from digging
 
 {% hint style="warning" %}
 The rates at which the drops drop are not public
@@ -51,15 +51,16 @@ The rates at which the drops drop are not public
 
 #### Miner Trader
 
-* Efficiency V-VII
+* Efficiency V-VIII
 * Unbreaking III-V
 * Impaling V-VII
 * Blast Protection IV-VI
 * Projectile Protection IV-VI
+* Spawner Pickaxe
 
 #### Digger Trader
 
-* Efficiency V-VII
+* Efficiency V-VIII
 * Unbreaking III-V
 * Smite V-VII
 * Fortune III-V
@@ -67,15 +68,16 @@ The rates at which the drops drop are not public
 
 #### Farmer Trader
 
-* Efficiency V-VII
+* Efficiency V-VIII
 * Unbreaking III-V
 * Feather Falling IV-VI
 * Sweeping Edge III-V
 * Bane of Arthropods V-VII
+* Biome Changer
 
 #### Fisher Trader
 
-* Efficiency V-VII
+* Efficiency V-VIII
 * Unbreaking III-V
 * Loyalty III-V
 * Luck of the Sea III-V
@@ -83,7 +85,7 @@ The rates at which the drops drop are not public
 
 #### Lumberjack Trader
 
-* Efficiency V-VII
+* Efficiency V-VIII
 * Unbreaking III-V
 * Knockback II-IV
 * Fire Protection IV-VI
@@ -96,3 +98,5 @@ The rates at which the drops drop are not public
 * Looting III-V
 * Sharpness V-VII
 * Power V-VII
+* Spawner Pickaxe
+* Golden Lasso
