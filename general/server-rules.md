@@ -32,10 +32,10 @@ _Please note that towns may have their own rules as long as they do not conflict
 
 ## Chat Rules (apply to all servers)
 
-1. **No disruptive chat**. This includes, but is not limited to, repeating messages frequently, flooding chat, countdowns, excessive caps, constant begging for items/money, spacing out letters frequently, long messages with random letters (e.g. ddjkfhdkldgfhdaklghdklgjal), using a different font etc.
+1. **No intentionally disruptive chat**. This includes, but is not limited to, repeating messages frequently, flooding chat, countdowns, excessive caps, constant begging for items/money, spacing out letters frequently, long messages with random letters (e.g. ddjkfhdkldgfhdaklghdklgjal), using a different font etc.
 2. **English only in general chat**. This means no complete sentences or conversations in another language in general chat. Small phrases or words in another language are permitted (e.g hola, c’est la vie etc.)
 3. **No discussing any previous or active punishments on CYT**, or punishments of other players on CYT. This includes punishments on the server and on Discord
-4. **No unsolicited advertising outside of /advert**. This means if someone asks where they can buy something in chat, you can reply with your own playerwarp or something equivalent, but you cannot advertise it unprompted unless using /advert. This also includes no advertising through renamed items in /ah or chat auctions, placing renamed items in public containers, or by distributing renamed items directly to players
+4. **Do not auction renamed items to promote your town, warp, or any other services.** This includes both /ah and chat auctions.
 5. **No personal promotions of anything non-CYT related**. Permitted advertisements include if you’re currently streaming CYT on a streaming site, CYT-related discord servers and anything else related to the server that is not for personal promotion only. Promotions of your social media, or any content that has no relation to CYT, are not allowed.
 6. **No NSFW content in chat**, such as sexual or erotic content, hard drug-related content, excessive mentions of alcohol abuse or other forms of substance abuse, gore, or anything else that is deemed as inappropriate to be discussed on a Minecraft server where age is not monitored
 7. **Do not harass others through chat**. This includes bullying others, continuously messaging a player after being asked to stop, and any other form of verbal harassment
@@ -45,7 +45,7 @@ _Please note that towns may have their own rules as long as they do not conflict
 11. **No discriminatory comments of any kind**. Any form of homophobia, transphobia, sexism, racism or any other unfair or prejudicial distinctions will not be tolerated
 12. **Do not attempt to evade a mute in any way** via the use of signs, books, writing with blocks, renaming items, or anything similar. You are not permitted to use another account to bypass this or any other punishment. All penalties are issued with the expectation that the person responsible will serve their designated punishment.
 
-_Please note we do not enforce chat rules 1-9 in direct message logs without a report. If you are being harassed/insulted by another player via direct message in-game in an unsolicited or unwanted manner (e.g not just joking around with a friend), and they do not stop when asked, you should create a report in our Discord. If we find logs that show you have broken chat rules 10 or 11 in direct messages, you will be punished for it whether the incident was reported by a player or not_
+_Please note we do not enforce chat rules 1-9 in direct message logs without a report. If you are being harassed/insulted by another player via direct message in-game in an unsolicited or unwanted manner (e.g not just joking around with a friend), and they do not stop when asked, you should create a report in our Discord. If we find logs that show you have broken chat rules 10 or 11 in direct messages or any other chat channel, you will be punished for it whether the incident was reported by a player or not_
 
 _If a player is targeted, bullied, harassed, or made to feel isolated in-game on CYT due to someone spreading misinformation/rumours/gossip about them outside of CYT official platforms (e.g gossiping on another Discord server, in private with other players etc), you will be punished accordingly for it. For example, if you spread harmful or defamatory misinformation about someone and encourage everyone to ignore them or outlaw them from your town, with the intent of trying to isolate them/make them have a bad experience, you will be held responsible for that harassment and be punished for it accordingly. If you have personal issues with another player and those issues do not break CYT rules, it is not your responsibility to spread those issues around - mind your own business, and let other people make their own decisions about someone. If those issues do break CYT rules, they will be dealt with accordingly by staff, and should not be discussed further than a report. This is a Minecraft server, a place to relax and have fun, not to spread hate!_
 
@@ -78,7 +78,8 @@ _If a player is targeted, bullied, harassed, or made to feel isolated in-game on
 **Light Quality-of-Life Enhancements**\
 &#xNAN;_&#x65;.g., Toggle Sprint, Better PvP, etc._
 
-**Freecam & Replay Mod**
+**Freecam & Replay Mod**\
+&#xNAN;_&#x46;or building purposes only_
 
 **Crafting Assistance Mods**\
 &#xNAN;_&#x65;.g., Better Recipe Book, Item Scroller_
