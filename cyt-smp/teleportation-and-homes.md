@@ -1,2 +1,0 @@
-# 🌱 Teleportation and Homes
-

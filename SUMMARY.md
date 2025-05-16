@@ -37,38 +37,6 @@
   * [Miscellaneous](how-to-play/content/miscellaneous.md)
 * [❓ FAQ](how-to-play/faq.md)
 
-## CYT SMP
-
-* [🏡 CYT SMP | Version 1](cyt-smp/cyt-smp-or-version-1.md)
-* [⛏️ Land Claiming](cyt-smp/land-claiming.md)
-* [🌱 Teleportation and Homes](cyt-smp/teleportation-and-homes.md)
-* [🍄 Content](cyt-smp/content/README.md)
-  * [Armour Stand Editor](cyt-smp/content/armour-stand-editor.md)
-  * [Chest Shops](cyt-smp/content/chest-shops.md)
-  * [Clover's Cosmetics](cyt-smp/content/clovers-cosmetics.md)
-  * [Cosmetics](cyt-smp/content/cosmetics.md)
-  * [Crates](cyt-smp/content/crates.md)
-  * [CYG (CraftYourGadgets)](cyt-smp/content/cyg-craftyourgadgets.md)
-  * [Daily Quests](cyt-smp/content/daily-quests.md)
-  * [Enchantment Cap](cyt-smp/content/enchantment-cap.md)
-  * [Fishing](cyt-smp/content/fishing.md)
-  * [Fossils](cyt-smp/content/fossils.md)
-  * [Jobs](cyt-smp/content/jobs.md)
-  * [Logistics (CYG)](cyt-smp/content/logistics-cyg.md)
-  * [Marriage](cyt-smp/content/marriage.md)
-  * [Mob Caps](cyt-smp/content/mob-caps.md)
-  * [Parkour](cyt-smp/content/parkour.md)
-  * [Piñata Party](cyt-smp/content/pinata-party.md)
-  * [Player Warps](cyt-smp/content/player-warps.md)
-  * [Quests](cyt-smp/content/quests.md)
-  * [Sarah](cyt-smp/content/sarah.md)
-  * [Skins](cyt-smp/content/skins.md)
-  * [Trade](cyt-smp/content/trade.md)
-  * [Toby the Trader](cyt-smp/content/toby-the-trader.md)
-  * [Tournaments](cyt-smp/content/tournaments.md)
-  * [Voting & Vote Parties](cyt-smp/content/voting-and-vote-parties.md)
-* [❓ FAQ](cyt-smp/faq.md)
-
 ## Additional Links
 
 * [🛒 Store](https://store.craftyourtown.com)
