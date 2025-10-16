@@ -6,6 +6,10 @@
 [auction-house.md](auction-house.md)
 {% endcontent-ref %}
 
+{% content-ref url="auction-house-1.md" %}
+[auction-house-1.md](auction-house-1.md)
+{% endcontent-ref %}
+
 {% content-ref url="bank.md" %}
 [bank.md](bank.md)
 {% endcontent-ref %}
@@ -16,10 +20,6 @@
 
 {% content-ref url="enchant-upgrading-and-traders.md" %}
 [enchant-upgrading-and-traders.md](enchant-upgrading-and-traders.md)
-{% endcontent-ref %}
-
-{% content-ref url="employment.md" %}
-[employment.md](employment.md)
 {% endcontent-ref %}
 
 {% content-ref url="fishing.md" %}

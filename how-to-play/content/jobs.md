@@ -13,7 +13,7 @@ Jobs are one of the many ways to earn money on CYT. The list of jobs can be view
 The different jobs that you can join and earn money/job XP from are:
 
 * Miner
-* Excavator
+* Digger
 * Lumberjack
 * Hunter
 * Farmer
@@ -24,11 +24,11 @@ Check your **/jobs info** to see what you can do within your job and what pays t
 
 ### What is the Money and XP Limit?
 
-From when you begin actions of your joined jobs, a limit is set. For money, this is £25,000 per 12 hours and for Jobs XP, this is 20,000 per 12 hours. Check this limit and whether or not you are close it to by typing **/jobs limit**.
+From when you begin actions of your joined jobs, a limit is set. For money, this is £60,000 per 24 hours and for Jobs XP, this is 40,000 per 24 hours. Check this limit and whether or not you are close it to by typing **/jobs limit**.
 
 ### How many Jobs can I have?
 
-At Rank I, you are able to join one job. At Rank VI, two jobs. And at Rank IX, three jobs.
+At Rank I, you are able to join one job. At Rank II, two jobs. At Rank III, three jobs. At Rank IV, four jobs. At rank IX, five jobs.
 
 ### How do I leave a Job?
 

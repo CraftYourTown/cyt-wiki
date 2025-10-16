@@ -17,11 +17,11 @@ Towns must be at least **12 chunks away** from each other or you will be unable 
 
 #### **Step 2: Funding your town**
 
-You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.&#x20;
+You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.
 
 This is important because your town will need to pay daily upkeep based on the amount of land you have claimed, it currently is £15 per townblock per day. You can view your town size and upkeep at any time on `/town`.
 
-Daily Upkeep is taken at a certain time daily, you can do `/towny time` to see a countdown. Money in the town bank is also used for buying claim blocks and claiming chunks.&#x20;
+Daily Upkeep is taken at a certain time daily, you can do `/towny time` to see a countdown. Money in the town bank is also used for buying claim blocks and claiming chunks.
 
 #### **Step 3: Claiming land**
 
@@ -39,11 +39,11 @@ If you want to claim an area that isn't directly connected to your town, you'll 
 
 #### **Step 5: Taxes**
 
-You may want to charge your residents tax to help you pay for your town's upkeep and claiming. There are two options you can choose for setting tax of a town.&#x20;
+You may want to charge your residents tax to help you pay for your town's upkeep and claiming. There are two options you can choose for setting tax of a town.
 
-The first is a daily fixed fee (the most common), which is the same for everyone in the town every 24 hours - you can set this with `/t set taxes <amount>`.&#x20;
+The first is a daily fixed fee (the most common), which is the same for everyone in the town every 24 hours - you can set this with `/t set taxes <amount>`.
 
-The second option is a percentage of each resident's balance, with the maximum being 10% of the balance of £10000 (whichever is lower). You can toggle this using /t toggle taxpercent, but be warned that this may discourage people from joining your town.&#x20;
+The second option is a percentage of each resident's balance, with the maximum being 10% of the balance of £10000 (whichever is lower). You can toggle this using /t toggle taxpercent, but be warned that this may discourage people from joining your town.
 
 Taxes are taken at the same time as daily upkeep, and residents that cannot afford the tax (cash) will be automatically kicked from the town. Town staff and VIP residents are not taxed.
 
@@ -53,8 +53,6 @@ Taxes are taken at the same time as daily upkeep, and residents that cannot affo
 | ---- | ------------- |
 | I    | 0             |
 | II   | 1             |
-| IV   | 3             |
-| V    | 5             |
-| VII  | 7             |
-| IX   | 9             |
-| X    | 10            |
+| IV   | 5             |
+| VI   | 10            |
+| IX   | 25            |

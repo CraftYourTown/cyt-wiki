@@ -2,10 +2,12 @@
 
 ## Town Costs
 
+Minimum upkeep starts at £375/day for all towns, additional claimed blocks will not add to the upkeep until you claim \~35 town blocks.
+
 | Name                           | Cost                      | Town Bank or Player's Cash           |
 | ------------------------------ | ------------------------- | ------------------------------------ |
-| Creating a Town                | £2500                     | Player's Cash                        |
-| Upkeep                         | £15/claimed townblock/day | Town Bank                            |
+| Creating a Town                | £10000                    | Player's Cash                        |
+| Upkeep                         | £10/claimed townblock/day | Town Bank                            |
 | Default Tax (for town members) | £50                       | Player's Cash                        |
 | Default Shop/Plot/Embassy Tax  | £50                       | Player's Cash                        |
 | Rename Town                    | £2500                     | Town Bank                            |
@@ -13,6 +15,7 @@
 | Claim Townblock                | £250                      | Town Bank                            |
 | Purchase Bonus Townblocks      | £500                      | Town Bank                            |
 | Reclaim Ruined Town            | £10000                    | Player's Cash                        |
+| Claim Outpost                  | £15000                    | Town Bank                            |
 
 ## Nation Costs
 

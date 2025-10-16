@@ -10,9 +10,10 @@ Player Warps, commonly known as pwarp or PW, are player-made warps which allow o
 
 There is a limit to how many Player Warps that can be created by a player, which is based on their rank in /ranks:
 
-* Rank II onwards: 1 Player Warps
-* Rank VI onwards: 2 Player Warps
-* Rank IX onwards: 3 Player Warps
+* Rank III onwards: 1 Player Warps
+* Rank IV onwards: 2 Player Warps
+* Rank VI onwards: 4 Player Warps
+* Rank VIII onwards: 3 Player Warps
 * Rank X onwards: 5 Player Warps
 
 ### **Player Warp Commands**

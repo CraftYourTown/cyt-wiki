@@ -25,7 +25,7 @@ All fish are currently available to be caught in all biomes and require no bait.
 
 Entropy is a currency used for Fishing. Entropy can be used to buy upgrades and augments.
 
-You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](broken-reference) here on CYT!
+You can obtain Entropy by catching custom fish, gutting fish in the Gutting Station (**/fish gut**), completing Deliveries (**/fish deliveries**), using Entropy Crystals (items that store Entropy) or as a reward from various places such as the [Crates](broken-reference/) here on CYT!
 
 ### What are the Augments?
 
@@ -351,6 +351,29 @@ Master Fisherman gives you a higher chance to catch higher-tier fish. This augme
 
 </details>
 
+<details>
+
+<summary>Snow Globe</summary>
+
+**Description**
+
+Snow Globe will randomly create a Snow Ring that gives bonus entropy and xp when fishing inside of it. Works for all players who are inside
+
+**Requirements**
+
+* Required Fishing Level: **0**
+* Entropy Cost: **0**
+* Max Augment Level: **5**
+
+**Acquisition**
+
+* Snow Globe is a limited time augment obtained through the yearly Crabmas Event, which usually takes place in December.
+* Players would have to fish in a variety of different vanilla biomes and catch approximately 30 fish to discover whether Crabmas was to be found in that biome
+* Players who fished in that the biome with crabmas could spawn a Crabmas Minion
+* Crabmas Minions could drop crabmas orbs, a total of 5 could be consumed to spawn the Crabmas Boss, which had a low chance of dropping 1 Snowglobe Augment to whoever killed the boss
+
+</details>
+
 ### **What happens in Fishing Tournaments?**
 
 Typing **/ft info** in-game brings up information on the currently active tournament with an explanation of the tournament, how much time remains, and who is in 1st, 2nd, and 3rd place. When a fishing tournament is not running, you can find out when the next event is by typing **/ft time**.
@@ -370,7 +393,7 @@ The tournament types are:
 
 At the end of the tournament, players in 1st, 2nd, 3rd place, and participation rewards are rewarded:
 
-* **1st Place** - 1 Rare Key, 1 Uncommon Key & £2000
+* **1st Place** - 1 Rare Key, 2 Uncommon Key & £2000
 * **2nd Place** - 2 Uncommon Keys & £1000
 * **3rd Place** - 1 Uncommon Key & £500
 * **Participation** - £100
