@@ -28,7 +28,7 @@ From when you begin actions of your joined jobs, a limit is set. For money, this
 
 ### How many Jobs can I have?
 
-At Rank I, you are able to join one job. At Rank II, two jobs. At Rank III, three jobs. At Rank IV, four jobs. At rank IX, five jobs.
+At Rank I, you are able to join one job. At Rank III, two jobs. At Rank V, three jobs. At Rank VII, four jobs. At rank IX, five jobs.
 
 ### How do I leave a Job?
 
