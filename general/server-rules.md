@@ -1,268 +1,195 @@
 ---
 description: >-
-  You are responsible for your own account, and so you are responsible for any
-  punishments if you break the rules below. If you have an issue with a ruling,
-  you can appeal at in our Discord Server
+  You are responsible for your account and any punishments for breaking the rules below. If you disagree with a ruling, you can appeal on our [Discord Server](https://discord.gg/CYT).
 ---
 
 # 📖 Server Rules
 
-## General rules (apply over all servers)
+## General Rules (Apply to All Servers)
 
-#### 1. Do not use any inappropriate skins or usernames, or create any inappropriate builds.
-
-This includes NSFW content (sexual/gore/hard drugs/substance abuse), anything that promotes discrimination of any kind, depictions of controversial political figures.
+#### 1. No Inappropriate Content
+Inappropriate skins, usernames, or builds are prohibited. This includes NSFW content (sexual, gore, hard drugs, substance abuse), content promoting discrimination, or depictions of controversial political figures.
 
 <details>
-
-<summary>G1 Offense Lengths</summary>
-
-1. Permanent Warn
-2. 2d Temporary Ban
-3. 5d Temporary Ban
-4. 14d Temporary Ban
-5. 30d Temporary Ban
-
+<summary>G1 Offense Penalties</summary>
+1. Permanent Warn  
+2. 2-Day Temporary Ban  
+3. 5-Day Temporary Ban  
+4. 14-Day Temporary Ban  
+5. 30-Day Temporary Ban  
 </details>
 
-#### 2. Do not use anything that can give you an unfair advantage.
-
-This includes, but is not limited to, auto-clicking or taping down your mouse/keys, x-ray, baritone, fly hacks, killaura/mobaura etc. Refer to the [Allowed Mods](server-rules.md#allowed-modifications) list, and if yours isn’t listed, ask a staff member or create a ticket before using it
+#### 2. No Unfair Advantages
+Using mods, hacks, or tools that provide an unfair advantage (e.g., auto-clickers, x-ray, baritone, fly hacks, killaura) is prohibited. Check the [Allowed Modifications](#allowed-modifications) list. If a mod isn’t listed, consult staff or open a ticket before using it.
 
 <details>
-
-<summary>G2 Offense Lengths</summary>
-
+<summary>G2 Offense Penalties</summary>
 {% hint style="danger" %}
-Using unfair advantages to benefit yourself or others may result in a removal of progress. This includes but is not limited to Items, Cash & Bank Balance, Jobs Levels, PyroFishing Levels and more.
+Using unfair advantages may result in removal of progress, including items, cash, bank balance, job levels, PyroFishing levels, and more.
 {% endhint %}
-
-1. 5d Temporary Ban
-2. 14d Temporary Ban
-3. 60d Temporary Ban
-4. 180d Temporary Ban
-5. 1 Year Temporary Ban
-6. Permanent Ban
-
+1. 5-Day Temporary Ban  
+2. 14-Day Temporary Ban  
+3. 60-Day Temporary Ban  
+4. 180-Day Temporary Ban  
+5. 1-Year Temporary Ban  
+6. Permanent Ban  
 </details>
 
-#### 3. Do not abuse bugs, harass or scam players of their money or goods
+#### 3. No Bug Abuse, Harassment, or Scamming
+Abusing bugs, harassing players, or scamming others for money or goods is prohibited. This includes exploiting glitches for gain, attempting to lag or crash the server, false sales, item impersonation, non-payment for agreed trades, price manipulation, stalking, building to annoy, false reporting, targeting vulnerable players, or teleporting players into traps/PvP zones with intent to harm.
 
 {% hint style="info" %}
-tldr; dont abuse bugs, just report it to staff instead, don't routinely harass players to stir conflict, swindle people out of money, steal from them, no highway robberies
+TL;DR: Report bugs to staff instead of abusing them. Don’t harass, swindle, or steal from players. Avoid actions intended to disrupt or deceive.
 {% endhint %}
 
-This includes abusing a bug/glitch for personal gain, purposefully attempting to lag or crash the server, making false sales, renaming items to impersonate other items with more worth with the intent to trick people, not paying for an item that was agreed upon, or manipulation of prices through deception and/or collusion with another player or an alternate account, constantly following/stalking players around or following them via their location on the map, creating builds around their town with the intent to annoy them, falsely reporting others to get them unfairly punished, targeting vulnerable players, teleporting players into traps or pvp zones with the intent to kill them, or anything similar that we deem as harassment
-
-_Please note that scamming only applies to in-game trades and things of monetary value. Agreements about things that do not hold monetary value or a tangible property, such as agreeing not to interact with another player, agreeing to not join a certain town etc., are not punishable and are at the discretion of the players involved_
+*Note*: Scamming applies only to in-game trades and items of monetary value. Non-monetary agreements (e.g., not joining a town) are not enforceable and are at players’ discretion.
 
 <details>
-
-<summary>G3 Offense Length</summary>
-
-The length of these punishments are up to the discretion of multiple staff members and discussions as there is there is too much variety to have a designated offense scale. You will be given a temporary 14d punishment length which may be later readjusted.
-
+<summary>G3 Offense Penalties</summary>
+Punishments are determined by staff discretion due to the variety of offenses. A temporary 14-day ban will be issued initially, subject to adjustment after review.
 </details>
 
-#### 4. **Do not use another account to evade any current punishment on your main account**
+#### 4. No Punishment Evasion
+Using alternate accounts or exploiting bugs to evade punishments is prohibited.
 
-Do not join on additional accounts or abuse bugs/glitches to evade any consequences of existing punishments
-
-#### 5. Any behaviour that indicates you have no intention to play the server, and are only online to cause harm or upset, will result in a severe punishment with no warning
-
-This includes, but is not limited to, spamming offensive comments or slurs in chat or through any other means, leaking private information about another individual, and trading in-game items or money for anything outside of the server (excluding through the CYT store)
+#### 5. No Malicious Behavior
+Behavior indicating intent to harm or disrupt the server without playing legitimately will result in severe punishment. This includes spamming offensive comments/slurs, leaking private information, or trading in-game items/money for external benefits (except via the CYT store).
 
 <details>
-
-<summary>G5 Offense Length</summary>
-
-Users punished under G5 will experience a **2 Year Ban & Mute**, if the user has intent to play on the server, they may appeal in the [Discord Server](https://discord.gg/CYT)
-
+<summary>G5 Offense Penalties</summary>
+A **2-Year Ban & Mute** will be issued. Users with intent to play may appeal on the [Discord Server](https://discord.gg/CYT).
 </details>
 
-## Towny Rules&#x20;
+## Towny Rules
 
-#### 1. You are not allowed to be in towns where you are outlawed or have a home set without permission
-
-If you are outlawed from a town, you must leave the area immediately and at least 100 blocks away. If a player asks you to leave their plot in a town, you must stay outside the borders of their plot. You also are not allowed to establish a home within town borders without permission from the Town Staff/Plot Owner
+#### 1. Respect Town Boundaries
+You may not remain in towns where you are outlawed or set homes without permission. If outlawed, leave immediately and stay 100 blocks away. Respect plot owners’ requests to leave their plots.
 
 <details>
-
-<summary>T1 Offense Lengths</summary>
-
-1. Permanent Warn
-2. 2d Temporary Ban
-3. 5d Temporary Ban
-4. 14d Temporary Ban
-5. 30d Temporary Ban
-
+<summary>T1 Offense Penalties</summary>
+1. Permanent Warn  
+2. 2-Day Temporary Ban  
+3. 5-Day Temporary Ban  
+4. 14-Day Temporary Ban  
+5. 30-Day Temporary Ban  
 </details>
 
-#### 2. Do not abuse your town permissions or interfere with another town's expansion/design
+#### 2. No Town Permission Abuse or Interference
+Abusing town permissions or interfering with another town’s expansion/design is prohibited. This includes draining town banks, causing towns to fall, stealing from plots, raising taxes without notice, kicking players unjustly, exploiting mistaken permissions, griefing with intent, destroying pre-made houses, ring-claiming other towns, or damaging town outskirts.
 
 {% hint style="info" %}
-tldr; don't steal from your town, increase town prices with no notice, destroying premade houses, destroy the outskirts of another town, etc. always put your trolley back at the store
+TL;DR: Don’t steal from or sabotage your town, raise taxes without notice, destroy structures, or disrupt other towns’ designs.
 {% endhint %}
 
-This includes, but is not limited to, draining the town bank of its money, purposefully making the town fall or go into ruin, stealing from town members’ plots, greatly increasing tax with no prior notice, kicking players from your town for no reason, taking advantage of permissions which were enabled by mistake, joining a town or convincing someone to trust you in their plot with the intention to grief, destroying pre-made houses without permission, ring claiming another town, and purposefully destroying the outskirts of a town.
-
 <details>
-
-<summary>T2 Offense Lengths</summary>
-
-1. 5d Temporary Ban
-2. 14d Temporary Ban
-3. 60d Temporary Ban
-4. 180d Temporary Ban
-5. 1 Year Temporary Ban
-
+<summary>T2 Offense Penalties</summary>
+1. 5-Day Temporary Ban  
+2. 14-Day Temporary Ban  
+3. 60-Day Temporary Ban  
+4. 180-Day Temporary Ban  
+5. 1-Year Temporary Ban  
 </details>
 
-#### 3. Do not cause mass destruction in Towns or any of the Overworlds
-
-This includes, but is not limited to,  building large walls, TNT or TNT cannons, lava and water pyramids, causing forest fires in the overworld, large craters and mass destruction of terrain, or anything else we deem as intended griefing. These are allowed in resource worlds only
+#### 3. No Mass Destruction
+Mass destruction in towns or Overworlds is prohibited, including large walls, TNT/cannons, lava/water pyramids, forest fires, craters, or other intentional griefing. These actions are permitted only in resource worlds.
 
 <details>
-
-<summary>T3 Offense Lengths</summary>
-
-1. 2w Temporary Ban
-2. 1mo Temporary Ban
-3. 2mo Temporary Ban
-4. 2mo Temporary Ban
-5. 8mo Temporary Ban
-6. Permanent Ban
-
+<summary>T3 Offense Penalties</summary>
+1. 2-Week Temporary Ban  
+2. 1-Month Temporary Ban  
+3. 2-Month Temporary Ban  
+4. 2-Month Temporary Ban  
+5. 8-Month Temporary Ban  
+6. Permanent Ban  
 </details>
 
-_Please note that towns may have their own rules as long as they do not conflict with or violate the official CYT rules. If a player breaks any rule made specifically by a town, and is not an offence in CYT's rules, they will not be punished for it_&#x20;
+*Note*: Towns may set their own rules, provided they don’t conflict with CYT rules. Breaking town-specific rules that don’t violate CYT rules will not result in punishment.
 
 ## Chat Rules
 
-#### 1. No disruptive chat, unsolicited advertising and only use english in general chat
+#### 1. No Disruptive Chat or Non-English in General Chat
+Disruptive chat, unsolicited advertising, or non-English in general chat is prohibited. This includes spamming, flooding, begging, spacing letters, arguing about punishments, using random letter strings, different fonts, or promoting via renamed auction items.
 
 {% hint style="info" %}
-You may talk in another languages in town chat, local chat, party chat or private messages, small phrases or words are permitted but please keep full sentences or conversations in other channels.
+Non-English is allowed in town chat, local chat, party chat, or private messages. Small phrases are permitted in general chat, but full conversations should use other channels.
 {% endhint %}
 
-This includes, but is not limited to, repeating messages frequently, flooding chat, constant begging for items/money, spacing out letters frequently, arguing about a previous or active punishment, continuing to long messages with random letters (e.g. ddjkfhdkldgfhdaklghdklgjal), using a different font, auction renamed items to promote your town, warp or any other services.
-
 <details>
-
-<summary>C1 Offense Lengths</summary>
-
-1. Permanent Warn
-2. Permanent Warn
-3. 1h Temporary Mute
-4. 3h Temporary Mute
-5. 6h Temporary Mute
-6. 9h Temporary Mute
-7. 12h Temporary Mute
-8. 1d Temporary Mute
-9. 5d Temporary Mute
-10. 14d Temporary Mute
-11. 1mo Temporary Mute
-12. Permanent Mute
-
+<summary>C1 Offense Penalties</summary>
+1. Permanent Warn  
+2. Permanent Warn  
+3. 1-Hour Temporary Mute  
+4. 3-Hour Temporary Mute  
+5. 6-Hour Temporary Mute  
+6. 9-Hour Temporary Mute  
+7. 12-Hour Temporary Mute  
+8. 1-Day Temporary Mute  
+9. 5-Day Temporary Mute  
+10. 14-Day Temporary Mute  
+11. 1-Month Temporary Mute  
+12. Permanent Mute  
 </details>
 
-#### 2. No NSFW content, disrespectful language, personal promotions or staff impersonation
+#### 2. No NSFW Content, Disrespect, or Impersonation
+NSFW content (sexual, drug-related, gore), direct insults, rude remarks, personal promotions, or staff impersonation are prohibited. Joking with friends should occur in private messages to avoid confusion. Discussions of gender and sexuality are not NSFW. Political/religious discussions are allowed unless they involve hate speech or harassment.
 
 {% hint style="info" %}
-Disrespectful language that is considered hate speech or discriminatory in nature will be punished under the C3 Category instead of C2
+Hate speech or discriminatory language will be punished under C3, not C2.
 {% endhint %}
 
-Do not directly insult other players through name calling, cursing directly at people, making rude or insensitive remarks at them, We recommend if you are joking with your friends, that you do it in direct messages instead so no confusion is caused. Do not share or discuss NSFW Content in chat, such as sexual or erotic content, hard drug-related content, excessive mentioned of alcohol or other forms of substance abuse, gore or anything that would be deemed as too inappropriate to be discussed on a Minecraft server where age is not monitored.  The discussion of gender and sexuality is not considered NSFW in nature.
-
-The discussion of politics and religion is allowed on the server, though users who share hate speech, personal remarks, or harass users based on their opinions and viewpoints shared will be punished under the appropriate categories.
-
 <details>
-
-<summary>C2 Offense Lengths</summary>
-
-1. Permanent Warn
-2. 1h Temporary Mute
-3. 6h Temporary Mute
-4. 12h Temporary Mute
-5. 1d Temporary Mute
-6. 5d Temporary Mute
-7. 14d Temporary Mute
-8. 1mo Temporary Mute
-9. Permanent Mute
-
+<summary>C2 Offense Penalties</summary>
+1. Permanent Warn  
+2. 1-Hour Temporary Mute  
+3. 6-Hour Temporary Mute  
+4. 12-Hour Temporary Mute  
+5. 1-Day Temporary Mute  
+6. 5-Day Temporary Mute  
+7. 14-Day Temporary Mute  
+8. 1-Month Temporary Mute  
+9. Permanent Mute  
 </details>
 
-#### 3. No discriminatory comments or server advertisement
-
-Any form of homophobia, transphobia, sexism, racism or any other unfair or prejudicial distinctions will not be tolerated. You also may not advertise/promote or encourage players to join a different server, you may also not share the ip address of any other servers.
-
-<details>
-
-<summary>C3 Offense Lengths</summary>
-
-1. 12h Temporary Mute
-2. 1d Temporary Mute
-3. 1w Temporary Mute
-4. 2w Temporary Mute
-5. 1mo Temporary Mute
-6. 2mo Temporary Mute
-7. 4mo Temporary Mute
-8. 8mo Temporary Mute
-9. Permanent Mute
-
-</details>
-
-#### 4. Do not attempt to evade a mute in any way
-
-Do not attempt to evade a mute in any way via the use of signs, books, writing with blocks, renaming items, or anything similar. You are not permitted to use another account to bypass this or any other punishment. All penalties are issued with the expectation that the person responsible will serve their designated punishment.
+#### 3. No Discriminatory Comments or Server Advertising
+Homophobia, transphobia, sexism, racism, or any discriminatory behavior is prohibited. Advertising other servers or sharing their IP addresses is not allowed.
 
 <details>
-
-<summary>C4 Offense Lengths</summary>
-
-Evading an active mute punishment will result in a ban for the remaining length of time of your punishment.
-
+<summary>C3 Offense Penalties</summary>
+1. 12-Hour Temporary Mute  
+2. 1-Day Temporary Mute  
+3. 1-Week Temporary Mute  
+4. 2-Week Temporary Mute  
+5. 1-Month Temporary Mute  
+6. 2-Month Temporary Mute  
+7. 4-Month Temporary Mute  
+8. 8-Month Temporary Mute  
+9. Permanent Mute  
 </details>
 
-_Please note we do not enforce chat rules 1-3 in direct message logs without a report. If you are being harassed/insulted by another player via direct message in-game in an unsolicited or unwanted manner (e.g not just joking around with a friend), and they do not stop when asked, you should create a report in our Discord. If we find logs that show you have mute evaded in direct messages or any other chat channel, you will be punished for it whether the incident was reported by a player or not_
+#### 4. No Mute Evasion
+Evading mutes via signs, books, block writing, renamed items, or alternate accounts is prohibited. All punishments must be served as issued.
 
-_If a player is targeted, bullied, harassed, or made to feel isolated in-game on CYT due to someone spreading misinformation/rumours/gossip about them outside of CYT official platforms (e.g gossiping on another Discord server, in private with other players etc), you will be punished accordingly for it. For example, if you spread harmful or defamatory misinformation about someone and encourage everyone to ignore them or outlaw them from your town, with the intent of trying to isolate them/make them have a bad experience, you will be held responsible for that harassment and be punished for it accordingly. If you have personal issues with another player and those issues do not break CYT rules, it is not your responsibility to spread those issues around - mind your own business, and let other people make their own decisions about someone. If those issues do break CYT rules, they will be dealt with accordingly by staff, and should not be discussed further than a report. This is a Minecraft server, a place to relax and have fun, not to spread hate!_
+<details>
+<summary>C4 Offense Penalties</summary>
+Evading a mute results in a ban for the remaining duration of the mute.
+</details>
+
+*Note*: Chat rules C1–C3 are not enforced in private messages unless reported. If harassed via private messages, report it on Discord if the behavior persists after asking the player to stop. Mute evasion in any chat channel will be punished, reported or not. Spreading harmful misinformation or gossip about players outside CYT platforms (e.g., other Discord servers) to isolate or harass them in-game will result in punishment. Keep personal disputes that don’t break CYT rules private, and report rule-breaking issues to staff.
 
 ## Allowed Modifications
 
-**Inventory and Mouse Tweaks**\
-&#xNAN;_&#x65;.g., ItemScroller, Mouse Tweaks, Chest Tracker, Inventory Profiles Next_
+- **Inventory and Mouse Tweaks** (e.g., ItemScroller, Mouse Tweaks, Chest Tracker, Inventory Profiles Next)  
+- **Schematica/Litematica** (excluding Printer functionality)  
+- **Mini-maps** (e.g., Xaero’s Minimap, JourneyMap)  
+- **Aesthetic Enhancements** (e.g., Shaders, Resource Packs, VanillaTweaks)  
+- **Keybind Macros** (e.g., for welcome messages, help responses, advertisements)  
+- **Performance Optimization Mods** (e.g., Sodium, OptiFine, Entity Culling)  
+- **Chat Customization Mods** (e.g., Chat Heads, AdvancedChat)  
+- **HUD Improvements** (e.g., MiniHud, InventoryHud+)  
+- **Light Quality-of-Life Enhancements** (e.g., Toggle Sprint, Better PvP)  
+- **Freecam & Replay Mod** (for building purposes only)  
+- **Crafting Assistance Mods** (e.g., Better Recipe Book, Item Scroller)  
 
-**Schematica/Litematica**\
-&#xNAN;_&#x65;xcluding Printer functionality_
+Ensure all mods comply with fair play guidelines and do not provide unfair advantages. If unsure about a mod, ask staff before using it.
 
-**Mini-maps**\
-&#xNAN;_&#x65;.g., Xaero's Minimap, JourneyMap_
-
-**Aesthetic Enhancements**\
-&#xNAN;_&#x53;haders, Resource Packs, VanillaTweaks, etc._
-
-**Keybind Macros**\
-&#xNAN;_&#x66;or welcome messages, common help responses, advertisements, etc._
-
-**Performance Optimization Mods**\
-&#xNAN;_&#x65;.g., Sodium, OptiFine, Entity Culling_
-
-**Chat Customization Mods**\
-&#xNAN;_&#x65;.g., Chat Heads, AdvancedChat_
-
-**HUD Improvements**\
-&#xNAN;_&#x65;.g., MiniHud, InventoryHud+_
-
-**Light Quality-of-Life Enhancements**\
-&#xNAN;_&#x65;.g., Toggle Sprint, Better PvP, etc._
-
-**Freecam & Replay Mod**\
-&#xNAN;_&#x46;or building purposes only_
-
-**Crafting Assistance Mods**\
-&#xNAN;_&#x65;.g., Better Recipe Book, Item Scroller_
-
-Please ensure all mods comply with fair play guidelines and do not provide an unfair advantage.
-
-_Mods listed are examples and do not cover every possible mod. If you are unsure if a mod is allowed, ask!_
+*Note*: This list includes examples and is not exhaustive. Always verify with staff if a mod is allowed.
