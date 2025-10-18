@@ -17,7 +17,15 @@ Inappropriate skins, usernames, or builds are prohibited. This includes NSFW con
 
 <summary>G1 Offense Penalties</summary>
 
-1\. Permanent Warn 2. 2-Day Temporary Ban 3. 5-Day Temporary Ban 4. 14-Day Temporary Ban 5. 30-Day Temporary Ban
+1\. Permanent Warn
+
+2\. 2-Day Temporary Ban
+
+3\. 5-Day Temporary Ban
+
+4\. 14-Day Temporary Ban
+
+5\. 30-Day Temporary Ban
 
 </details>
 
@@ -86,7 +94,15 @@ You may not remain in towns where you are outlawed or set homes without permissi
 
 <summary>T1 Offense Penalties</summary>
 
-1\. Permanent Warn 2. 2-Day Temporary Ban 3. 5-Day Temporary Ban 4. 14-Day Temporary Ban 5. 30-Day Temporary Ban
+1\. Permanent Warn
+
+2\. 2-Day Temporary Ban
+
+3\. 5-Day Temporary Ban
+
+4\. 14-Day Temporary Ban
+
+5\. 30-Day Temporary Ban
 
 </details>
 
@@ -102,7 +118,15 @@ TL;DR: Don’t steal from or sabotage your town, raise taxes without notice, des
 
 <summary>T2 Offense Penalties</summary>
 
-1\. 5-Day Temporary Ban 2. 14-Day Temporary Ban 3. 60-Day Temporary Ban 4. 180-Day Temporary Ban 5. 1-Year Temporary Ban
+1\. 5-Day Temporary Ban
+
+2\. 14-Day Temporary Ban
+
+3\. 60-Day Temporary Ban
+
+4\. 180-Day Temporary Ban
+
+5\. 1-Year Temporary Ban
 
 </details>
 
@@ -114,7 +138,17 @@ Mass destruction in towns or Overworlds is prohibited, including large walls, TN
 
 <summary>T3 Offense Penalties</summary>
 
-1\. 2-Week Temporary Ban 2. 1-Month Temporary Ban 3. 2-Month Temporary Ban 4. 2-Month Temporary Ban 5. 8-Month Temporary Ban 6. Permanent Ban
+1\. 2-Week Temporary Ban
+
+2\. 1-Month Temporary Ban
+
+3\. 2-Month Temporary Ban
+
+4\. 2-Month Temporary Ban
+
+5\. 8-Month Temporary Ban
+
+6\. Permanent Ban
 
 </details>
 
@@ -134,7 +168,29 @@ Non-English is allowed in town chat, local chat, party chat, or private messages
 
 <summary>C1 Offense Penalties</summary>
 
-1\. Permanent Warn 2. Permanent Warn 3. 1-Hour Temporary Mute 4. 3-Hour Temporary Mute 5. 6-Hour Temporary Mute 6. 9-Hour Temporary Mute 7. 12-Hour Temporary Mute 8. 1-Day Temporary Mute 9. 5-Day Temporary Mute 10. 14-Day Temporary Mute 11. 1-Month Temporary Mute 12. Permanent Mute
+1\. Permanent Warn
+
+2\. Permanent Warn
+
+3\. 1-Hour Temporary Mute
+
+4\. 3-Hour Temporary Mute
+
+5\. 6-Hour Temporary Mute
+
+6\. 9-Hour Temporary Mute
+
+7\. 12-Hour Temporary Mute
+
+8\. 1-Day Temporary Mute
+
+9\. 5-Day Temporary Mute
+
+10\. 14-Day Temporary Mute
+
+11\. 1-Month Temporary Mute
+
+12\. Permanent Mute
 
 </details>
 
@@ -150,7 +206,23 @@ Hate speech or discriminatory language will be punished under C3, not C2.
 
 <summary>C2 Offense Penalties</summary>
 
-1\. Permanent Warn 2. 1-Hour Temporary Mute 3. 6-Hour Temporary Mute 4. 12-Hour Temporary Mute 5. 1-Day Temporary Mute 6. 5-Day Temporary Mute 7. 14-Day Temporary Mute 8. 1-Month Temporary Mute 9. Permanent Mute
+1\. Permanent Warn
+
+2\. 1-Hour Temporary Mute
+
+3\. 6-Hour Temporary Mute
+
+4\. 12-Hour Temporary Mute
+
+5\. 1-Day Temporary Mute
+
+6\. 5-Day Temporary Mute
+
+7\. 14-Day Temporary Mute
+
+8\. 1-Month Temporary Mute
+
+9\. Permanent Mute
 
 </details>
 
@@ -162,7 +234,23 @@ Homophobia, transphobia, sexism, racism, or any discriminatory behavior is prohi
 
 <summary>C3 Offense Penalties</summary>
 
-1\. 12-Hour Temporary Mute 2. 1-Day Temporary Mute 3. 1-Week Temporary Mute 4. 2-Week Temporary Mute 5. 1-Month Temporary Mute 6. 2-Month Temporary Mute 7. 4-Month Temporary Mute 8. 8-Month Temporary Mute 9. Permanent Mute
+1\. 12-Hour Temporary Mute
+
+2\. 1-Day Temporary Mute
+
+3\. 1-Week Temporary Mute
+
+4\. 2-Week Temporary Mute
+
+5\. 1-Month Temporary Mute
+
+6\. 2-Month Temporary Mute
+
+7\. 4-Month Temporary Mute
+
+8\. 8-Month Temporary Mute
+
+9\. Permanent Mute
 
 </details>
 
