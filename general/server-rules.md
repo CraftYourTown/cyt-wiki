@@ -31,7 +31,7 @@ Inappropriate skins, usernames, or builds are prohibited. This includes NSFW con
 
 #### 2. No Unfair Advantages
 
-Using mods, hacks, or tools that provide an unfair advantage (e.g., auto-clickers, x-ray, baritone, fly hacks, killaura) is prohibited. Check the [Allowed Modifications](server-rules.md#allowed-modifications) list. If a mod isn’t listed, consult staff or open a ticket before using it.
+Using mods, hacks, or tools that provide an unfair advantage (e.g., auto fishers, x-ray, baritone, fly hacks, killaura) is prohibited. Check the [Allowed Modifications](server-rules.md#allowed-modifications) list. If a mod isn’t listed, consult staff or open a ticket before using it. Auto Clickers are a special case as they were made available in [Minecraft 1.21.9](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9), Details about this can be found #
 
 <details>
 
@@ -72,6 +72,14 @@ Punishments are determined by staff discretion due to the variety of offenses. A
 
 Using alternate accounts or exploiting bugs to evade punishments is prohibited.
 
+<details>
+
+<summary>G4 Offense Penalties</summary>
+
+Punishments for evading a punishment using an alternative account will usually a result in double the original punishment length for both the Main & Alternative Account.
+
+</details>
+
 #### 5. No Malicious Behavior
 
 Behavior indicating intent to harm or disrupt the server without playing legitimately will result in severe punishment. This includes spamming offensive comments/slurs, leaking private information, or trading in-game items/money for external benefits (except via the CYT store).
@@ -81,6 +89,31 @@ Behavior indicating intent to harm or disrupt the server without playing legitim
 <summary>G5 Offense Penalties</summary>
 
 A \*\*2-Year Ban & Mute\*\* will be issued. Users with intent to play may appeal on the \[Discord Server]\(https://discord.gg/CYT).
+
+</details>
+
+#### 6. Auto Clickers must be monitored&#x20;
+
+Auto Clickers are allowed to be used on CYT, however, you must be monitoring your game while using it, you are not allowed to leave your auto clickers active while away from your desk.\
+\
+This punishment was recently amended due to [Minecraft 1.21.9](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9), in which they added the following:
+
+* The "Attack/Destroy" and "Use Item/Place Block" key binds are now toggleable, meaning they can be set to either "Hold" or "Toggle" in the Controls screen
+
+<details>
+
+<summary>G6 Offense Penalties</summary>
+
+{% hint style="danger" %}
+Using unfair advantages may result in removal of progress, including items, cash, bank balance, job levels, PyroFishing levels, and more.
+{% endhint %}
+
+1. 1-Minute Temporary Ban
+2. 5-Day Temporary Ban
+3. 14-Day Temporary Ban
+4. 60-Day Temporary Ban
+5. 180-Day Temporary Ban
+6. 1-Year Temporary Ban
 
 </details>
 
