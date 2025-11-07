@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Enchant Upgrading & Traders
 
 ### What are the Traders?

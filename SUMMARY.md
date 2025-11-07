@@ -26,6 +26,7 @@
   * [Fishing](how-to-play/content/fishing.md)
   * [Jobs](how-to-play/content/jobs.md)
   * [Marriage](how-to-play/content/marriage.md)
+  * [Miscellaneous](how-to-play/content/miscellaneous.md)
   * [mcMMO](how-to-play/content/mcmmo.md)
   * [Mob Caps](how-to-play/content/mob-caps.md)
   * [Player Warps](how-to-play/content/player-warps.md)
@@ -34,7 +35,7 @@
   * [Skins](how-to-play/content/skins.md)
   * [Spawners](how-to-play/content/spawners.md)
   * [Towers](how-to-play/content/towers.md)
-  * [Miscellaneous](how-to-play/content/miscellaneous.md)
+  * [Wizard](how-to-play/content/wizard.md)
 * [❓ FAQ](how-to-play/faq.md)
 
 ## Additional Links
