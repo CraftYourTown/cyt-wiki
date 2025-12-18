@@ -26,7 +26,7 @@ Useful commands for your Player Warp:
 * /pw ban set/remove \<warp> \<player> - Ban/remove a banned player from your Player Warp
 * /pw rate \<warp> <1-5> - Give a Player Warp a rating between 1 to 5 stars
 * /pw reset \<warp> - Changes (re-sets not reset) the player warp location
-* /pw lock \warp> - Locks/unlocks Player Warp access
+* /pw lock \<warp> - Locks/unlocks Player Warp access
 * /pw password \<set/remove> \<warp> \<password> - Set/remove a password for accessing a Player Warp
 
 **Note:** Adding \n into a chunk of text will move the following text to a new line, for example, typing, “Come visit my Player Warp!\nWe sell everything you need!” will appear in the Player Warp menu as:
