@@ -6,13 +6,13 @@ hidden: true
 
 ### Methods of sale
 
-You have three options to use to sell or buy, we will go over all three here, click to expand for a indepth guide!
+You have three options to use to sell or buy, we will go over all three here, click to expand for a in-depth guide!
 
 <details>
 
 <summary>Chest Shops: You can place items in a chest and create a chest shop for people to get to and buy from!</summary>
 
-{% hint style="info" %}
+{% hint style="success" %}
 #### You will benefit from a [Player Warp](player-warps.md)!&#x20;
 {% endhint %}
 
