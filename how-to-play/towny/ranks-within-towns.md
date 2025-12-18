@@ -31,20 +31,17 @@ All "players with no town" permissions plus:\
 /town leave\
 /town deposit\
 /town spawn\
-/tc (chat)\
-
+/tc (chat)
 
 ## **VIP**
 
 All "Default Town Member" permissions plus:\
-Tax-exempt\
-
+Tax-exempt
 
 ## **Builder:**
 
 All "VIP" permissions plus:\
-Ability to build around the town\
-
+Ability to build around the town
 
 ## **Assistant:**
 
@@ -53,16 +50,14 @@ All "VIP" permissions plus:\
 /town invite\
 /plot (all features)\
 /town toggle public\
-/town vault\
-
+/town vault
 
 ## **Co-Mayor:**
 
 All "Assistant" permissions plus:\
 /town (all features)\
 /towny top\
-All abilities in claimed areas (overriding resident switch, build etc settings)\
-
+All abilities in claimed areas (overriding resident switch, build etc settings)
 
 ## **Mayor:**
 
@@ -70,4 +65,4 @@ All "Co-Mayor" permissions plus:\
 /t set mayor\
 /n leave\
 /t set homeblock\
-/t invite accept \<n>&#x20;
+/t invite accept \<n>
