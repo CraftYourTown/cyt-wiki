@@ -21,7 +21,7 @@
 **Q: What is** [**Entropy**](content/fishing.md#what-is-entropy)**?**\
 **A:** Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!
 
-**Q: How do I find** [**Fossils**](broken-reference)**, and what are they?**\
+**Q: How do I find** [**Fossils**](/broken/pages/cShTYzdIg1W4pa9RJaFB)**, and what are they?**\
 **A:** You can find Dirty Fossils by mining, and clean at /warp Archaeologist! Once cleaned, you can discover what type it is by right clicking the Clean Fossil, and then add it to your Fossil Collection for rewards per collection completed!
 
 **Q: What is the** [**Bank**](content/bank.md)**?**\
@@ -54,5 +54,5 @@
 **Q: I need help, how do I make a ticket?**\
 **A:** You can always contact online Staff when you’re in-game for general support, or you can create a ticket in our Discord by clicking on “Open a ticket” in the #create-a-ticket channel!
 
-**Q: How do I vote and join** [**VoteParties**](broken-reference)**?**\
+**Q: How do I vote and join** [**VoteParties**](/broken/pages/yMFf3diDhisxbzH0FRA1)**?**\
 **A:** You can vote by typing /v in-game and typing your username in each link (remember to type your name as shown on the tablist)! Then stay online to join our VoteParties for every 75 votes!
