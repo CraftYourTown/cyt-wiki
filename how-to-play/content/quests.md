@@ -8,7 +8,7 @@
 
 ### What are Quests?
 
-Quests are tasks that you can complete to earn fast cast.\
+Quests are tasks that you can complete to earn fast cash.\
 The amount you can take on at once depends on your current in-game rank, check out `/ranks` to check your current rank.
 
 ### Available Commands
