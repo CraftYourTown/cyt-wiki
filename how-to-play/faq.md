@@ -21,14 +21,8 @@
 **Q: What is** [**Entropy**](content/fishing.md#what-is-entropy)**?**\
 **A:** Entropy is a currency used to craft augments in /fish augments. It can be obtained from fishing and gutting custom fishes in /fish gut!
 
-**Q: How do I find** [**Fossils**](/broken/pages/cShTYzdIg1W4pa9RJaFB)**, and what are they?**\
-**A:** You can find Dirty Fossils by mining, and clean at /warp Archaeologist! Once cleaned, you can discover what type it is by right clicking the Clean Fossil, and then add it to your Fossil Collection for rewards per collection completed!
-
 **Q: What is the** [**Bank**](content/bank.md)**?**\
 **A:** The Bank is a place where you store your money to earn interest on it! You can upgrade your bank to store more money and earn a higher interest! You also claim the money you earned from your Job at /warp Bank!
-
-**Q: How do I upgrade/repair enchantments, and how do I get** [**Ancient Coins**](broken-reference/)**?**\
-**A:** You can upgrade and repair your enchanted books at /warp Wizard using Ancient coins, which are found by digging! You will also find Fragments of Ancient Coins, which you can trade for a full coin at /warp Trading!
 
 **Q: How do I gain XP?**\
 **A:** To gain XP, you can kill mobs or participate in Envoys, Tasks, Voting, Vote Parties, Piñata Parties and open Reward Crate Keys for XP Pouches, or buy them from other players!
