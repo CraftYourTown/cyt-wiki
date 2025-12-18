@@ -19,7 +19,7 @@ Towns must be at least **12 chunks away** from each other or you will be unable 
 
 You've created your town, but now we need to fund it to make sure it doesn't go bankrupt! Do `/t deposit <amount>` - we recommend around £7500-£10000 to get started.
 
-This is important because your town will need to pay daily upkeep based on the amount of land you have claimed, it currently is £15 per townblock per day. You can view your town size and upkeep at any time on `/town`.
+This is important because your town will need to pay daily upkeep based on the amount of land you have claimed, it currently is £10 per townblock per day. You can view your town size and upkeep at any time on `/town`.
 
 Daily Upkeep is taken at a certain time daily, you can do `/towny time` to see a countdown. Money in the town bank is also used for buying claim blocks and claiming chunks.
 
