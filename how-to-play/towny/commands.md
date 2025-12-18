@@ -18,7 +18,7 @@ Displays the prices used with our economy\
 Display highscores\
 \
 &#xNAN;**/towny time**\
-Displays time until 'next day' is ran (when taxes get taken and paid)\\
+Displays time until 'next day' is ran (when taxes get taken and paid)
 
 ## **Town Commands:**
 
