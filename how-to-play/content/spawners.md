@@ -10,4 +10,4 @@ To obtain a spawner, you will need a **Spawner Pickaxe** - you can then use this
 
 ### How to get a spawner pickaxe
 
-Spawner Pickaxes can be obtained through **crates and daily rewards** . These are single-use and will be consumed once used to mine a spawner.
+Spawner Pickaxes can be obtained through **crates and daily rewards**. These are single-use and will be consumed once used to mine a spawner.
