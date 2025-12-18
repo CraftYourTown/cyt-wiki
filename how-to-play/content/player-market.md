@@ -10,7 +10,7 @@ You have three options to use to sell or buy, we will go over all three here, cl
 
 <details>
 
-<summary>Chest Shops: You can set an item to be bought or sold!</summary>
+<summary>Chest Shops: You can set an item to be bought or sold in a chest or barrel!</summary>
 
 {% hint style="success" %}
 #### You will benefit from a [Player Warp](player-warps.md)!&#x20;
@@ -76,7 +76,7 @@ Slots are obtained from purchasing donator ranks (click [**here**](https://store
 
 <details>
 
-<summary>Chat Auctions: You create a timed chat auction for people to bid on quickly to sell items</summary>
+<summary>Chat Auctions: You create a timed chat auction for people to bid on to quickly to sell items!</summary>
 
 ### **What is the Chat Auction?**
 
