@@ -6,7 +6,7 @@ In-Game Command: **/jobsinfo**
 
 ### What are Jobs?
 
-Jobs are one of the many ways to earn money on CYT. The list of jobs can be viewed by typing /jobs.
+Jobs are one of the many ways to earn money on CYT. The list of jobs can be viewed by typing /jobsinfo.
 
 ### What are the different Jobs I can do?
 
@@ -20,7 +20,7 @@ The different jobs that you can join and earn money/job XP from are:
 
 ### **How do I do my Job?**
 
-Check your **/jobs info** to see what you can do within your job and what pays the best - this could include breaking blocks, crafting items, killing mobs, harvesting crops and more. You can do your job anywhere in the Towny worlds. Any XP earned from your job will be automatically granted though to claim income from your job, visit the **/warp Bank** and talk to the Jobs NPC!
+Check your **/jobsinfo** to see what you can do within your job and what pays the best - this could include breaking blocks, crafting items, killing mobs, harvesting crops and more. You can do your job anywhere in the Towny worlds. Any XP earned from your job will be automatically granted though to claim income from your job, visit the **/warp Bank** and talk to the Jobs NPC!
 
 ### What is the Money and XP Limit?
 
