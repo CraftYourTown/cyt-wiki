@@ -56,12 +56,10 @@ It will not let you scrap or trade anything you're not meant to, and will inform
 
 Below are the maximum levels of enchants that are offered on CYT - only obtainable via The Wizard.
 
-* Bane of Arthropods VII
+* Bane of Arthropods VIII
 * Blast Protection VI
-* Depth Strider V
 * Efficiency VIII
 * Feather Falling VI
-* Fire Aspect IV
 * Fire Protection VI
 * Fortune V
 * Impaling VII
@@ -70,10 +68,12 @@ Below are the maximum levels of enchants that are offered on CYT - only obtainab
 * Loyalty V
 * Luck of the Sea V
 * Lure V
-* Power VII
+* Piercing VI
+* Power VIII
 * Projectile Protection VI
 * Protection VI
-* Sharpness VII
-* Smite VII
-* Sweeping Edge V
-* Unbreaking V
+* Quick Charge V
+* Sharpness VIII
+* Smite VIII
+* Thorns V
+* Unbreaking VI
