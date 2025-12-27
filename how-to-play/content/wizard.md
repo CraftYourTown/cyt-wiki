@@ -12,7 +12,7 @@ The Wizard is your go-to to upgrade your heirlooms, acquire better tools and get
 
 ### What is an Heirloom?
 
-A heirloom is a tool that randomly generates with a unique name, enchants, modifiers, and has a respective tier. You will likely stumble on lots of these, although the higher tier ones are rare and do not drop naturally. You cannot pick what the item type is, nor it's enchants, modifiers, or name.
+An heirloom is a tool that randomly generates with a unique name, enchants, modifiers, and has a respective tier. You will likely stumble on lots of these, although the higher tier ones are rare and do not drop naturally. You cannot pick what the item type is, nor it's enchants, modifiers, or name.
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt="A crossbow heirloom example"><figcaption></figcaption></figure>
 

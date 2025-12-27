@@ -76,7 +76,7 @@ Using alternate accounts or exploiting bugs to evade punishments is prohibited.
 
 <summary>G4 Offense Penalties</summary>
 
-Punishments for evading a punishment using an alternative account will usually a result in double the original punishment length for both the Main & Alternative Account.
+Punishments for evading a punishment using an alternative account will usually result in double the original punishment length for both the Main & Alternative Account.
 
 </details>
 
