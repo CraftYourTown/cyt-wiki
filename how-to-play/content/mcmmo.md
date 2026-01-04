@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # mcMMO
 
 {% hint style="info" %}
