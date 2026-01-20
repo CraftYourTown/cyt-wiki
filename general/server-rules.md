@@ -141,10 +141,10 @@ You may not remain in towns where you are outlawed or set homes without permissi
 
 #### 2. No Town Permission Abuse or Interference
 
-Abusing town permissions or interfering with another town’s expansion/design is prohibited. This includes draining town banks, causing towns to fall, stealing from plots, raising taxes without notice, kicking players unjustly, exploiting mistaken permissions, griefing with intent, destroying pre-made houses, ring-claiming other towns, or damaging town outskirts.
+Abusing town permissions or interfering with another town’s expansion/design is prohibited. This includes draining town banks, causing towns to fall, stealing from plots, raising taxes without notice, kicking players unjustly, exploiting mistaken permissions, griefing with intent, ring-claiming other towns, or damaging town outskirts.
 
 {% hint style="info" %}
-TL;DR: Don’t steal from or sabotage your town, raise taxes without notice, destroy structures, or disrupt other towns’ designs.
+TL;DR: Don’t steal from or sabotage your town, raise taxes without notice, or disrupt other towns’ designs.
 {% endhint %}
 
 <details>
