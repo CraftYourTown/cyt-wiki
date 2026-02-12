@@ -27,9 +27,9 @@ Scraps can be upgraded to the next tier to allow you to then purchase the higher
 | Tier      | Next Tier | Required          |
 | --------- | --------- | ----------------- |
 | Common    | Uncommon  | 10 Common Scraps  |
-| Uncommon  | Rare      | 9 Uncommon Scraps |
-| Rare      | Epic      | 8 Rare Scraps     |
-| Epic      | Legendary | 7 Epic Scraps     |
+| Uncommon  | Rare      | 8 Uncommon Scraps |
+| Rare      | Epic      | 6 Rare Scraps     |
+| Epic      | Legendary | 5 Epic Scraps     |
 | Legendary | N/A       | N/A               |
 
 ### Trading Scraps to Heirlooms
@@ -39,9 +39,9 @@ Scraps can easily be converted into an Heirloom. Below is a table of what's requ
 | Tier      | Required           |
 | --------- | ------------------ |
 | Common    | 10 Common Scraps   |
-| Uncommon  | 9 Uncommon Scraps  |
-| Rare      | 8 Rare Scrapas     |
-| Epic      | 7 Epic Scraps      |
+| Uncommon  | 8 Uncommon Scraps  |
+| Rare      | 7 Rare Scrapas     |
+| Epic      | 6 Epic Scraps      |
 | Legendary | 5 Legendary Scraps |
 
 ### How to use the GUI
