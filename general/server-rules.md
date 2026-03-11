@@ -227,9 +227,11 @@ Non-English is allowed in town chat, local chat, party chat, or private messages
 
 </details>
 
-#### 2. No NSFW Content, Disrespect, or Impersonation
+#### 2. No NSFW Content, Contentious Topics, Disrespect, or Impersonation
 
-NSFW content (sexual, drug-related, gore), direct insults, rude remarks, personal promotions, or staff impersonation are prohibited. Joking with friends should occur in private messages to avoid confusion. Discussions of gender and sexuality are not NSFW. Political/religious discussions are allowed unless they involve hate speech or harassment.
+NSFW content (sexual, drug-related, gore), direct insults, rude remarks, personal promotions, or staff impersonation are prohibited. Inside jokes or opinions that could be perceived as offensive should be limited to private chats.
+
+Discussing or debating controversial subjects such as politics, religion, gender identity, sexual orientation, race, or other polarising real-world issues is not allowed.
 
 {% hint style="info" %}
 Hate speech or discriminatory language will be punished under C3, not C2.
@@ -259,9 +261,11 @@ Hate speech or discriminatory language will be punished under C3, not C2.
 
 </details>
 
-#### 3. No Discriminatory Comments or Server Advertising
+#### 3. No Discriminatory Comments or 3rd Party Advertising
 
-Homophobia, transphobia, sexism, racism, or any discriminatory behavior is prohibited. Advertising other servers or sharing their IP addresses is not allowed.
+Homophobia, transphobia, sexism, racism, or any discriminatory behavior is prohibited.
+
+Advertising other servers or sharing their IP addresses is not allowed.
 
 <details>
 
