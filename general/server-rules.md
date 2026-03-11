@@ -231,7 +231,7 @@ Non-English is allowed in town chat, local chat, party chat, or private messages
 
 NSFW content (sexual, drug-related, gore), direct insults, rude remarks, personal promotions, or staff impersonation are prohibited. Inside jokes or opinions that could be perceived as offensive should be limited to private chats.
 
-Discussing or debating controversial subjects such as politics, religion, gender identity, sexual orientation, race, or other polarising real-world issues is not allowed.
+Debating controversial subjects such as politics, religion, gender identity, sexual orientation, race, or other polarising real-world issues is not allowed.
 
 {% hint style="info" %}
 Hate speech or discriminatory language will be punished under C3, not C2.
