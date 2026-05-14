@@ -1,13 +1,10 @@
----
-description: >-
-  You are responsible for your account and any punishments for breaking the
-  rules below. If you disagree with a ruling, you can appeal on our Discord
-  Server.
----
-
 # 📖 Server Rules
 
-## General Rules (Apply to All Servers)
+{% hint style="warning" %}
+## You are responsible for all activity and security on your account and any punishments issued for breaking the rules below. If you believe a punishment was applied incorrectly, you may submit an appeal through our [Discord](https://discord.gg/cyt) server or by contacting _support@mangostudios.uk_ if you are unable to use Discord.
+{% endhint %}
+
+## General Rules
 
 #### 1. No Inappropriate Content
 
@@ -31,7 +28,7 @@ Inappropriate skins, usernames, or builds are prohibited. This includes NSFW con
 
 #### 2. No Unfair Advantages
 
-Using mods, hacks, or tools that provide an unfair advantage (e.g., auto fishers, x-ray, baritone, fly hacks, killaura) is prohibited. Check the [Allowed Modifications](server-rules.md#allowed-modifications) list. If a mod isn’t listed, consult staff or open a ticket before using it. Auto Clickers are a special case as they were made available in [Minecraft 1.21.9](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9), Details about this can be found #
+Using mods, hacks, or tools that provide an unfair advantage (e.g., auto fishers, x-ray, baritone, fly hacks, killaura, automated actions/reactions) are prohibited. Check the [Allowed Modifications](server-rules.md#allowed-modifications) list. If a mod isn’t listed, consult staff or open a ticket before using it.
 
 <details>
 
@@ -70,7 +67,7 @@ Punishments are determined by staff discretion due to the variety of offenses. A
 
 #### 4. No Punishment Evasion
 
-Using alternate accounts or exploiting bugs to evade punishments is prohibited.
+Circumventing an active ban through the use of alternative accounts, VPNs, or proxies is strictly prohibited. Similarly, bypassing an active mute - whether through alternative accounts, VPNs, proxies, or in-game methods such as signs, books, or block-building - is strictly prohibited.
 
 <details>
 
@@ -82,7 +79,7 @@ Punishments for evading a punishment using an alternative account will usually r
 
 #### 5. No Malicious Behavior
 
-Behavior indicating intent to harm or disrupt the server without playing legitimately will result in severe punishment. This includes spamming offensive comments/slurs, leaking private information, or trading in-game items/money for external benefits (except via the CYT store).
+Any behavior intended to harm or disrupt the server will result in severe punishment. This includes, but is not limited to: spamming offensive content or slurs, leaking private or confidential information, and trading in-game items or currency for external benefit through any means other than the official CYT Store.
 
 <details>
 
@@ -92,13 +89,9 @@ A \*\*2-Year Ban & Mute\*\* will be issued. Users with intent to play may appeal
 
 </details>
 
-#### 6. Auto Clickers must be monitored&#x20;
+#### 6. Auto-clickers must be monitored
 
-Auto Clickers are allowed to be used on CYT, however, you must be monitoring your game while using it, you are not allowed to leave your auto clickers active while away from your desk.\
-\
-This punishment was recently amended due to [Minecraft 1.21.9](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9), in which they added the following:
-
-* The "Attack/Destroy" and "Use Item/Place Block" key binds are now toggleable, meaning they can be set to either "Hold" or "Toggle" in the Controls screen
+Auto-clickers are permitted, provided you are actively monitoring your game while using them. Leaving an auto-clicker running while away from your keyboard or otherwise not paying attention to the game is not allowed.
 
 <details>
 
@@ -303,7 +296,15 @@ Evading a mute results in a ban for the remaining duration of the mute.
 
 </details>
 
-_Note_: Chat rules C1–C3 are not enforced in private messages unless reported. If harassed via private messages, report it on Discord if the behavior persists after asking the player to stop. Mute evasion in any chat channel will be punished, reported or not. Spreading harmful misinformation or gossip about players outside CYT platforms (e.g., other Discord servers) to isolate or harass them in-game will result in punishment. Keep personal disputes that don’t break CYT rules private, and report rule-breaking issues to staff.
+{% hint style="info" %}
+Note: Chat Rules C1–C3 are not enforced in private messages unless they are reported. If another player is harassing you through DMs, first ask them to stop. If the behavior continues, report it to staff via [Discord](https://discord.gg/cyt) or by emailing _support@mangostudios.uk_ if you do not use Discord.
+
+Mute evasion in any chat channel is strictly prohibited and will be punished regardless of whether it is reported.
+
+Attempting to spread harmful misinformation, rumours, or gossip about players outside of CYT platforms (such as in external Discord servers) with the intent to isolate, target, or harass them in-game may also result in punishment.
+
+Personal disputes that do not violate CYT rules should remain private. Any genuine rule-breaking concerns should be reported directly to staff.
+{% endhint %}
 
 ## Allowed Modifications
 
@@ -318,6 +319,7 @@ _Note_: Chat rules C1–C3 are not enforced in private messages unless reported.
 * **Light Quality-of-Life Enhancements** (e.g., Toggle Sprint, Better PvP)
 * **Freecam & Replay Mod** (for building purposes only)
 * **Crafting Assistance Mods** (e.g., Better Recipe Book, Item Scroller)
+* **Auto-clickers** (provided you're not AFK - you must be present)
 
 Ensure all mods comply with fair play guidelines and do not provide unfair advantages. If unsure about a mod, ask staff before using it.
 
