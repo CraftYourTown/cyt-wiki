@@ -27,6 +27,7 @@
   * [Jobs](how-to-play/content/jobs.md)
   * [Banking](how-to-play/content/bank.md)
   * [Fishing](how-to-play/content/fishing.md)
+  * [Magic Scrolls](how-to-play/content/magic-scrolls.md)
   * [Marriage](how-to-play/content/marriage.md)
   * [Miscellaneous](how-to-play/content/miscellaneous.md)
   * [mcMMO](how-to-play/content/mcmmo.md)
