@@ -14,7 +14,7 @@ Inappropriate skins, usernames, or builds are prohibited. This includes NSFW con
 
 <summary>G1 Offense Penalties</summary>
 
-1\. Permanent Warn
+1\. Kick from server
 
 2\. 2-Day Temporary Ban
 
@@ -292,7 +292,7 @@ Evading mutes via signs, books, block writing, renamed items, or alternate accou
 
 <summary>C4 Offense Penalties</summary>
 
-Evading a mute results in a ban for the remaining duration of the mute.
+Evading a mute results in a ban for the initial duration of the mute.
 
 </details>
 
