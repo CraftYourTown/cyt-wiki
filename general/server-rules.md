@@ -184,7 +184,7 @@ _Note_: Towns may set their own rules, provided they don’t conflict with CYT r
 
 #### 1. No Disruptive Chat or Non-English in General Chat
 
-Disruptive chat, unsolicited advertising, or non-English in general chat is prohibited. This includes spamming, flooding, begging, spacing letters, arguing about punishments, using random letter strings, different fonts, or promoting via renamed auction items.
+Disruptive chat, unsolicited advertising (excluding Town advertisements), or non-English in general chat is prohibited. This includes spamming, flooding, begging, spacing letters, arguing about punishments, using random letter strings, different fonts, or promoting via renamed auction items.
 
 {% hint style="info" %}
 Non-English is allowed in town chat, local chat, party chat, or private messages. Small phrases are permitted in general chat, but full conversations should use other channels.
