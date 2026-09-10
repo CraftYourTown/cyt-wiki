@@ -254,9 +254,11 @@ Hate speech or discriminatory language will be punished under C3, not C2.
 
 </details>
 
-#### 3. No Discriminatory Comments or 3rd Party Advertising
+#### 3. No Discriminatory Comments, Suspicious Links or 3rd Party Advertising
 
 Homophobia, transphobia, sexism, racism, or any discriminatory behavior is prohibited.
+
+Sharing or distributing suspicious/scam/phishing links is not allowed.
 
 Advertising other servers or sharing their IP addresses is not allowed.
 
