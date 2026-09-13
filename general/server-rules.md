@@ -10,6 +10,8 @@
 
 Inappropriate skins, usernames, or builds are prohibited. This includes NSFW content (sexual, gore, hard drugs, substance abuse), content promoting discrimination, or depictions of controversial political figures.
 
+Building or utilising anti-AFK machines is not allowed.
+
 <details>
 
 <summary>G1 Offense Penalties</summary>
