@@ -1,4 +1,4 @@
-# 📖 Server Rules
+# 📖 Our Rules
 
 {% hint style="warning" %}
 ## You are responsible for all activity and security on your account and any punishments issued for breaking the rules below. If you believe a punishment was applied incorrectly, you may submit an appeal through our [Discord](https://discord.gg/cyt) server or by contacting _support@mangostudios.uk_ if you are unable to use Discord.
@@ -70,6 +70,8 @@ Punishments are determined by staff discretion due to the variety of offenses. A
 #### 4. No Punishment Evasion
 
 Circumventing an active ban through the use of alternative accounts, VPNs, or proxies is strictly prohibited. Similarly, bypassing an active mute - whether through alternative accounts, VPNs, proxies, or in-game methods such as signs, books, or block-building - is strictly prohibited.
+
+You are allowed 1 alternative account alongside your main account - this is a global limit, not per-gamemode.
 
 <details>
 

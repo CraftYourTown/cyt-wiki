@@ -5,9 +5,33 @@ description: >-
   missing.
 cover: .gitbook/assets/image (16).png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# 🌆 CraftYourTown | Version 11
+# 🌆 CraftYourTown
 
 {% hint style="success" %}
 Anyone can suggest or make changes to this Wiki by creating a pull request/issue on our GitHub [here](https://github.com/CraftYourTown/cyt-wiki)!
