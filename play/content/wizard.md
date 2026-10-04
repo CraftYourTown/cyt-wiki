@@ -51,7 +51,7 @@ Below are the maximum levels of enchants that are offered on CYT - only obtainab
 * Projectile Protection VI
 * Protection VI
 * Quick Charge V
-* Sharpness VIII
+* Sharpness IX
 * Smite VIII
 * Thorns V
 * Unbreaking VI
