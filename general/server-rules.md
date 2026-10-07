@@ -71,7 +71,7 @@ Punishments are determined by staff discretion due to the variety of offenses. A
 
 Circumventing an active ban through the use of alternative accounts, VPNs, or proxies is strictly prohibited. Similarly, bypassing an active mute - whether through alternative accounts, VPNs, proxies, or in-game methods such as signs, books, or block-building - is strictly prohibited.
 
-You are allowed 1 alternative account alongside your main account - this is a global limit, not per-gamemode.
+You are allowed 1 alternative account alongside your main account - this is a global limit, not per-gamemode. You may not use a VPN to bypass the alternative account limit.
 
 <details>
 
