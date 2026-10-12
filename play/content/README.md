@@ -18,10 +18,6 @@
 [chest-shops.md](chest-shops.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/EfFfE2rDZQJ5Is5DM7wQ" %}
-[Broken link](/broken/pages/EfFfE2rDZQJ5Is5DM7wQ)
-{% endcontent-ref %}
-
 {% content-ref url="fishing.md" %}
 [fishing.md](fishing.md)
 {% endcontent-ref %}
