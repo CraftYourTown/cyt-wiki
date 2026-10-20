@@ -248,7 +248,6 @@ From lowest to highest:
 | 2 to 3  | 4                 | High       |
 | 3 to 4  | 5                 | High       |
 | 4 to 5  | 6                 | Very High  |
-| 5 to 6  | 6                 | Very High  |
 
 ### Piercing
 
